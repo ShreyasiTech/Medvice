@@ -1,0 +1,884 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>MEDVICE</title>
+	<meta name="description" content="" />
+	<meta name="author" content="admin" />
+	<meta name="viewport" content="width=device-width; initial-scale=1.0" />
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap"
+		rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+	<link rel="shortcut icon" href="images/favicon.png" alt="" />
+	<link href="css/font-awesome.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/bootstrap.css" />
+	<link rel="stylesheet" href="css/animate.css" media="all" />
+	<link rel="stylesheet" href="css/jquery.fancybox.css" />
+	<link rel="stylesheet" href="css/easy-responsive-tabs.css" />
+	<link rel="stylesheet" href="css/swiper.css" />
+	<link rel="stylesheet" href="css/custom.css" />
+	<link rel="stylesheet" href="css/responsive.css" />
+</head>
+
+<body>
+	<!-- option sec start -->
+	<section class="mdvc-optn">
+
+		<div class="optn-dtl">
+			<div class="optn-lgo">
+				<div class="logo_area">
+					<a href="index.html">
+						<img class="img-fluid" src="images/logo.png" alt="">
+					</a>
+				</div>
+				<div class="optn-prt">
+					<div class="optn-prt-dtl">
+						<div class="optn-prt-img">
+							<img src="images/dshbrd-img.png" alt="/">
+						</div>
+						<div class="optn-prt-txt">
+							<h5>dashboard</h5>
+						</div>
+					</div>
+					<div class="optn-prt-dtl">
+						<div class="optn-prt-img">
+							<img src="images/cnsltnt-img.png" alt="/">
+						</div>
+						<div class="optn-prt-txt">
+							<h5> Consultations</h5>
+						</div>
+					</div>
+					<div class="optn-prt-dtl">
+						<div class="optn-prt-img">
+							<img src="images/answr-img.png" alt="/">
+						</div>
+						<div class="optn-prt-txt">
+							<h5>My Answers</h5>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="crtr-prfl">
+				<div class="crtr-prfl-img">
+					<img src="images/hldr-img.png" alt="/">
+				</div>
+				<div class="crtr-prfl-txt cmn_hdr">
+					<p>Sam Walker</p>
+					<div class="crtr-prfl-anchr">
+						<a href="javascript:void(0);">My Account</a>
+						<a href="javascript:void(0);">Sign Out</a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</section>
+	<!-- option sec end -->
+	<!-- user payment sec start -->
+	<section class="hlth-prfl cmn_pdding">
+		<div class="container">
+			<div class="cmn_hdr">
+				<h3>Create Health Profile</h3>
+			</div>
+			<div class="answr-info-dtl">
+				<div class="hlth-info-prfl trt-dtl">
+					<h3>My Profile</h3>
+				</div>
+				<div class="hlth-dtl">
+					<div class="tab-otr">
+						<div id="horizontalTab" class="hrzntb">
+							<ul class="resp-tabs-list">
+								<li>
+								
+									<div class="hlth-tab trt-dtl">
+<!-- <h3><img src="images/hlth-icn1.png" alt="">Patient Identity</h3> -->
+
+<h3>	<img src="images/hlth-icn1.png" alt="">Patient Identity<span><i class="fa fa-chevron-right" aria-hidden="true"></i></span></h3>
+									</div>
+								</li>
+								<li>
+									<div class="hlth-tab trt-dtl">
+<!-- <h3><img src="images/hlth-icn2.png" alt="">Patient Identity</h3> -->
+<h3><img src="images/hlth-icn2.png" alt="">Patient History<span><i class="fa fa-chevron-right" aria-hidden="true"></i></span></h3>
+									</div>
+								</li>
+								<li>
+									<div class="hlth-tab trt-dtl">
+<!-- <h3><img src="images/hlth-icn3.png" alt="">Patient Identity</h3> -->
+<h3><img src="images/hlth-icn3.png" alt="">Allergies<span><i class="fa fa-chevron-right" aria-hidden="true"></i></span></h3>
+									</div>
+								</li>
+								<li>
+									<div class="hlth-tab trt-dtl">
+<!-- <h3><img src="images/hlth-icn4.png" alt="">Patient Identity</h3> -->
+<h3><img src="images/hlth-icn4.png" alt="">Medications <span><i class="fa fa-chevron-right" aria-hidden="true"></i></span></h3>
+									</div>
+								</li>
+								<li>
+									<div class="hlth-tab trt-dtl">
+<!-- <h3><img src="images/hlth-icn5.png" alt="">Patient Identity</h3> -->
+<h3><img src="images/hlth-icn5.png" alt="">Procedures/surgeries<span><i class="fa fa-chevron-right" aria-hidden="true"></i></span></h3>
+									</div>
+								</li>
+							</ul>
+							<div class="resp-tabs-container">
+								<div class="resp-tabs-inr">
+									<div class="resp-tabs-part">
+										<div class="resp-tabs-dtl">
+											<div class="hlth-info">
+												<div class="trt-dtl">
+													<h3>Patient Identity</h3>
+												</div>
+												<div class="hlth-img">
+													<img src="images/hlth-img.jpg" alt="/">
+													<div class="custom-file mb-3">
+														<input type="file" class="custom-file-input" id="customFile" name="filename">
+														<label class="custom-file-label" for="customFile"></label>
+													</div>
+												</div>
+												<div class="hlth-form user">
+													<form>
+														<div class="form-cntact">
+															<div class="form-group">
+																<label for="datepicker">Date Of Birth</label>
+																<div class="sd-container">
+																	<input class="sd form-control" type="date" name="selected_date"
+																		value="dd / mm / yyyy" />
+																	<span class="open-button">
+																		<button type="button"><img src="images/dt-pckr-img.png"
+																				alt="/"></button>
+																	</span>
+																</div>
+															</div>
+															<div class="form-group">
+																<label for="male">
+																	Birth Sex
+																</label><br>
+																<div class="hlth-gndr">
+																	<label class="radio-button">
+																		<input type="radio" class="radio-button__input" id="choice1-1"
+																			name="choice1">
+																		<span class="radio-button__control"></span>
+																		<span class="radio-button__label">Male</span>
+																	</label>
+																	<label class="radio-button">
+																		<input type="radio" class="radio-button__input" id="choice1-1"
+																			name="choice1">
+																		<span class="radio-button__control"></span>
+																		<span class="radio-button__label">Female</span>
+																	</label>
+																</div>
+															</div>
+															<div class="form-group">
+																<label for="">Gender Identity</label>
+						
+																<select class="form-control">
+																	<option selected="">Select</option>
+																	<option>option 1</option>
+																	<option>option 2</option>
+																</select>
+															</div>
+															<div class="form-group">
+																<label for="">Patient History</label>
+						
+																<select class="form-control">
+																	<option selected="">Select</option>
+																	<option>option 1</option>
+																	<option>option 2</option>
+																</select>
+															</div>
+															<div class="form-group">
+																<label>Allergies</label>
+																<textarea class="form-control fulhgt"
+																	placeholder="Allergy 1, Allergy 2, Allergy 3, Allergy 4"></textarea>
+															</div>
+															<div class="form-group">
+																<label>Medications</label>
+																<textarea class="form-control fulhgt"
+																	placeholder="Medication 1, Medication 2, Medication 3"></textarea>
+															</div>
+															<div class="form-group add-form">
+																<label for="">Procedure Name</label>
+																<div class="row">
+																	<div class="col-md-6">
+																		<input type="text" class="form-control" id="" name="field_name[]"
+																			placeholder="Type procedure name">
+																	</div>
+																	<div class="col-md-6">
+																		<div class="sd-container">
+																			<input class="sd form-control" type="date" name="field_name[]"
+																				value="dd / mm / yyyy" />
+																			<span class="open-button">
+																				<button type="button"><img src="images/dt-pckr-img.png"
+																						alt="/"></button>
+																			</span>
+																		</div>
+																	</div>
+																</div>
+															</div>
+															<div class="form-group add-form">
+																<label for="">Procedure Name</label>
+																<div class="row">
+																	<div class="col-md-6">
+																		<input type="text" class="form-control" id="" name="field_name[]"
+																			placeholder="Type procedure name">
+																	</div>
+																	<div class="col-md-6">
+																		<div class="sd-container">
+																			<input class="sd form-control" type="date" name="field_name[]"
+																				value="dd / mm / yyyy" />
+																			<span class="open-button">
+																				<button type="button"><img src="images/dt-pckr-img.png"
+																						alt="/"></button>
+																			</span>
+																		</div>
+																	</div>
+																</div>
+															</div>
+															<div class="appenddiv">
+						
+															</div>
+															<div class="addremove_btn">
+																<div class="add-prcdr">
+																	<a href="javascript:void(0);" class="add_button" title="Add field"> <i
+																			class="fa fa-plus" aria-hidden="true"></i>Add More Procedure</a>
+																</div>
+																<div class="add-prcdr minusclass">
+																	<a href="javascript:void(0);"  class="remove_button"
+																		title="Add field"> <i class="fa fa-minus" aria-hidden="true"></i>Remove
+																		Procedure</a>
+																</div>
+															</div>
+															<div class="prcdr-sbmt">
+																<input type="submit" value="Submit details" id="search-submit">
+															</div>
+														</div>
+													</form>
+												</div>
+											</div>
+											</div>
+										</div>
+										
+									</div>
+									<div class="resp-tabs-inr">
+										<div class="resp-tabs-part">
+											<div class="resp-tabs-dtl">
+												<div class="hlth-info">
+													<div class="trt-dtl">
+														<h3>Patient History</h3>
+													</div>
+													<div class="hlth-img">
+														<img src="images/hlth-img.jpg" alt="/">
+														<div class="custom-file mb-3">
+															<input type="file" class="custom-file-input" id="customFile" name="filename">
+															<label class="custom-file-label" for="customFile"></label>
+														</div>
+													</div>
+													<div class="hlth-form user">
+														<form>
+															<div class="form-cntact">
+																<div class="form-group">
+																	<label for="datepicker">Date Of Birth</label>
+																	<div class="sd-container">
+																		<input class="sd form-control" type="date" name="selected_date"
+																			value="dd / mm / yyyy" />
+																		<span class="open-button">
+																			<button type="button"><img src="images/dt-pckr-img.png"
+																					alt="/"></button>
+																		</span>
+																	</div>
+																</div>
+																<div class="form-group">
+																	<label for="male">
+																		Birth Sex
+																	</label><br>
+																	<div class="hlth-gndr">
+																		<label class="radio-button">
+																			<input type="radio" class="radio-button__input" id="choice1-1"
+																				name="choice1">
+																			<span class="radio-button__control"></span>
+																			<span class="radio-button__label">Male</span>
+																		</label>
+																		<label class="radio-button">
+																			<input type="radio" class="radio-button__input" id="choice1-1"
+																				name="choice1">
+																			<span class="radio-button__control"></span>
+																			<span class="radio-button__label">Female</span>
+																		</label>
+																	</div>
+																</div>
+																<div class="form-group">
+																	<label for="">Gender Identity</label>
+							
+																	<select class="form-control">
+																		<option selected="">Select</option>
+																		<option>option 1</option>
+																		<option>option 2</option>
+																	</select>
+																</div>
+																<div class="form-group">
+																	<label for="">Patient History</label>
+							
+																	<select class="form-control">
+																		<option selected="">Select</option>
+																		<option>option 1</option>
+																		<option>option 2</option>
+																	</select>
+																</div>
+																<div class="form-group">
+																	<label>Allergies</label>
+																	<textarea class="form-control fulhgt"
+																		placeholder="Allergy 1, Allergy 2, Allergy 3, Allergy 4"></textarea>
+																</div>
+																<div class="form-group">
+																	<label>Medications</label>
+																	<textarea class="form-control fulhgt"
+																		placeholder="Medication 1, Medication 2, Medication 3"></textarea>
+																</div>
+																<div class="form-group add-form">
+																	<label for="">Procedure Name</label>
+																	<div class="row">
+																		<div class="col-md-6">
+																			<input type="text" class="form-control" id="" name="field_name[]"
+																				placeholder="Type procedure name">
+																		</div>
+																		<div class="col-md-6">
+																			<div class="sd-container">
+																				<input class="sd form-control" type="date" name="field_name[]"
+																					value="dd / mm / yyyy" />
+																				<span class="open-button">
+																					<button type="button"><img src="images/dt-pckr-img.png"
+																							alt="/"></button>
+																				</span>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+																<div class="form-group add-form">
+																	<label for="">Procedure Name</label>
+																	<div class="row">
+																		<div class="col-md-6">
+																			<input type="text" class="form-control" id="" name="field_name[]"
+																				placeholder="Type procedure name">
+																		</div>
+																		<div class="col-md-6">
+																			<div class="sd-container">
+																				<input class="sd form-control" type="date" name="field_name[]"
+																					value="dd / mm / yyyy" />
+																				<span class="open-button">
+																					<button type="button"><img src="images/dt-pckr-img.png"
+																							alt="/"></button>
+																				</span>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+																<div class="appenddiv">
+							
+																</div>
+																<div class="addremove_btn">
+																	<div class="add-prcdr">
+																		<a href="javascript:void(0);" class="add_button" title="Add field"> <i
+																				class="fa fa-plus" aria-hidden="true"></i>Add More Procedure</a>
+																	</div>
+																	<div class="add-prcdr minusclass">
+																		<a href="javascript:void(0);"  class="remove_button"
+																			title="Add field"> <i class="fa fa-minus" aria-hidden="true"></i>Remove
+																			Procedure</a>
+																	</div>
+																</div>
+																<div class="prcdr-sbmt">
+																	<input type="submit" value="Submit details" id="search-submit">
+																</div>
+															</div>
+														</form>
+													</div>
+												</div>
+												</div>
+											</div>
+											
+										</div>
+										<div class="resp-tabs-inr">
+											<div class="resp-tabs-part">
+												<div class="resp-tabs-dtl">
+													<div class="hlth-info">
+														<div class="trt-dtl">
+															<h3>Allergies</h3>
+														</div>
+														<div class="hlth-img">
+															<img src="images/hlth-img.jpg" alt="/">
+															<div class="custom-file mb-3">
+																<input type="file" class="custom-file-input" id="customFile" name="filename">
+																<label class="custom-file-label" for="customFile"></label>
+															</div>
+														</div>
+														<div class="hlth-form user">
+															<form>
+																<div class="form-cntact">
+																	<div class="form-group">
+																		<label for="datepicker">Date Of Birth</label>
+																		<div class="sd-container">
+																			<input class="sd form-control" type="date" name="selected_date"
+																				value="dd / mm / yyyy" />
+																			<span class="open-button">
+																				<button type="button"><img src="images/dt-pckr-img.png"
+																						alt="/"></button>
+																			</span>
+																		</div>
+																	</div>
+																	<div class="form-group">
+																		<label for="male">
+																			Birth Sex
+																		</label><br>
+																		<div class="hlth-gndr">
+																			<label class="radio-button">
+																				<input type="radio" class="radio-button__input" id="choice1-1"
+																					name="choice1">
+																				<span class="radio-button__control"></span>
+																				<span class="radio-button__label">Male</span>
+																			</label>
+																			<label class="radio-button">
+																				<input type="radio" class="radio-button__input" id="choice1-1"
+																					name="choice1">
+																				<span class="radio-button__control"></span>
+																				<span class="radio-button__label">Female</span>
+																			</label>
+																		</div>
+																	</div>
+																	<div class="form-group">
+																		<label for="">Gender Identity</label>
+								
+																		<select class="form-control">
+																			<option selected="">Select</option>
+																			<option>option 1</option>
+																			<option>option 2</option>
+																		</select>
+																	</div>
+																	<div class="form-group">
+																		<label for="">Patient History</label>
+								
+																		<select class="form-control">
+																			<option selected="">Select</option>
+																			<option>option 1</option>
+																			<option>option 2</option>
+																		</select>
+																	</div>
+																	<div class="form-group">
+																		<label>Allergies</label>
+																		<textarea class="form-control fulhgt"
+																			placeholder="Allergy 1, Allergy 2, Allergy 3, Allergy 4"></textarea>
+																	</div>
+																	<div class="form-group">
+																		<label>Medications</label>
+																		<textarea class="form-control fulhgt"
+																			placeholder="Medication 1, Medication 2, Medication 3"></textarea>
+																	</div>
+																	<div class="form-group add-form">
+																		<label for="">Procedure Name</label>
+																		<div class="row">
+																			<div class="col-md-6">
+																				<input type="text" class="form-control" id="" name="field_name[]"
+																					placeholder="Type procedure name">
+																			</div>
+																			<div class="col-md-6">
+																				<div class="sd-container">
+																					<input class="sd form-control" type="date" name="field_name[]"
+																						value="dd / mm / yyyy" />
+																					<span class="open-button">
+																						<button type="button"><img src="images/dt-pckr-img.png"
+																								alt="/"></button>
+																					</span>
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																	<div class="form-group add-form">
+																		<label for="">Procedure Name</label>
+																		<div class="row">
+																			<div class="col-md-6">
+																				<input type="text" class="form-control" id="" name="field_name[]"
+																					placeholder="Type procedure name">
+																			</div>
+																			<div class="col-md-6">
+																				<div class="sd-container">
+																					<input class="sd form-control" type="date" name="field_name[]"
+																						value="dd / mm / yyyy" />
+																					<span class="open-button">
+																						<button type="button"><img src="images/dt-pckr-img.png"
+																								alt="/"></button>
+																					</span>
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																	<div class="appenddiv">
+								
+																	</div>
+																	<div class="addremove_btn">
+																		<div class="add-prcdr">
+																			<a href="javascript:void(0);" class="add_button" title="Add field"> <i
+																					class="fa fa-plus" aria-hidden="true"></i>Add More Procedure</a>
+																		</div>
+																		<div class="add-prcdr minusclass">
+																			<a href="javascript:void(0);"  class="remove_button"
+																				title="Add field"> <i class="fa fa-minus" aria-hidden="true"></i>Remove
+																				Procedure</a>
+																		</div>
+																	</div>
+																	<div class="prcdr-sbmt">
+																		<input type="submit" value="Submit details" id="search-submit">
+																	</div>
+																</div>
+															</form>
+														</div>
+													</div>
+													</div>
+												</div>
+												
+											</div>
+											<div class="resp-tabs-inr">
+												<div class="resp-tabs-part">
+													<div class="resp-tabs-dtl">
+														<div class="hlth-info">
+															<div class="trt-dtl">
+																<h3>Medications</h3>
+															</div>
+															<div class="hlth-img">
+																<img src="images/hlth-img.jpg" alt="/">
+																<div class="custom-file mb-3">
+																	<input type="file" class="custom-file-input" id="customFile" name="filename">
+																	<label class="custom-file-label" for="customFile"></label>
+																</div>
+															</div>
+															<div class="hlth-form user">
+																<form>
+																	<div class="form-cntact">
+																		<div class="form-group">
+																			<label for="datepicker">Date Of Birth</label>
+																			<div class="sd-container">
+																				<input class="sd form-control" type="date" name="selected_date"
+																					value="dd / mm / yyyy" />
+																				<span class="open-button">
+																					<button type="button"><img src="images/dt-pckr-img.png"
+																							alt="/"></button>
+																				</span>
+																			</div>
+																		</div>
+																		<div class="form-group">
+																			<label for="male">
+																				Birth Sex
+																			</label><br>
+																			<div class="hlth-gndr">
+																				<label class="radio-button">
+																					<input type="radio" class="radio-button__input" id="choice1-1"
+																						name="choice1">
+																					<span class="radio-button__control"></span>
+																					<span class="radio-button__label">Male</span>
+																				</label>
+																				<label class="radio-button">
+																					<input type="radio" class="radio-button__input" id="choice1-1"
+																						name="choice1">
+																					<span class="radio-button__control"></span>
+																					<span class="radio-button__label">Female</span>
+																				</label>
+																			</div>
+																		</div>
+																		<div class="form-group">
+																			<label for="">Gender Identity</label>
+									
+																			<select class="form-control">
+																				<option selected="">Select</option>
+																				<option>option 1</option>
+																				<option>option 2</option>
+																			</select>
+																		</div>
+																		<div class="form-group">
+																			<label for="">Patient History</label>
+									
+																			<select class="form-control">
+																				<option selected="">Select</option>
+																				<option>option 1</option>
+																				<option>option 2</option>
+																			</select>
+																		</div>
+																		<div class="form-group">
+																			<label>Allergies</label>
+																			<textarea class="form-control fulhgt"
+																				placeholder="Allergy 1, Allergy 2, Allergy 3, Allergy 4"></textarea>
+																		</div>
+																		<div class="form-group">
+																			<label>Medications</label>
+																			<textarea class="form-control fulhgt"
+																				placeholder="Medication 1, Medication 2, Medication 3"></textarea>
+																		</div>
+																		<div class="form-group add-form">
+																			<label for="">Procedure Name</label>
+																			<div class="row">
+																				<div class="col-md-6">
+																					<input type="text" class="form-control" id="" name="field_name[]"
+																						placeholder="Type procedure name">
+																				</div>
+																				<div class="col-md-6">
+																					<div class="sd-container">
+																						<input class="sd form-control" type="date" name="field_name[]"
+																							value="dd / mm / yyyy" />
+																						<span class="open-button">
+																							<button type="button"><img src="images/dt-pckr-img.png"
+																									alt="/"></button>
+																						</span>
+																					</div>
+																				</div>
+																			</div>
+																		</div>
+																		<div class="form-group add-form">
+																			<label for="">Procedure Name</label>
+																			<div class="row">
+																				<div class="col-md-6">
+																					<input type="text" class="form-control" id="" name="field_name[]"
+																						placeholder="Type procedure name">
+																				</div>
+																				<div class="col-md-6">
+																					<div class="sd-container">
+																						<input class="sd form-control" type="date" name="field_name[]"
+																							value="dd / mm / yyyy" />
+																						<span class="open-button">
+																							<button type="button"><img src="images/dt-pckr-img.png"
+																									alt="/"></button>
+																						</span>
+																					</div>
+																				</div>
+																			</div>
+																		</div>
+																		<div class="appenddiv">
+									
+																		</div>
+																		<div class="addremove_btn">
+																			<div class="add-prcdr">
+																				<a href="javascript:void(0);" class="add_button" title="Add field"> <i
+																						class="fa fa-plus" aria-hidden="true"></i>Add More Procedure</a>
+																			</div>
+																			<div class="add-prcdr minusclass">
+																				<a href="javascript:void(0);"  class="remove_button"
+																					title="Add field"> <i class="fa fa-minus" aria-hidden="true"></i>Remove
+																					Procedure</a>
+																			</div>
+																		</div>
+																		<div class="prcdr-sbmt">
+																			<input type="submit" value="Submit details" id="search-submit">
+																		</div>
+																	</div>
+																</form>
+															</div>
+														</div>
+														</div>
+													</div>
+													
+												</div>
+												<div class="resp-tabs-inr">
+													<div class="resp-tabs-part">
+														<div class="resp-tabs-dtl">
+															<div class="hlth-info">
+																<div class="trt-dtl">
+																	<h3>Procedures/surgeries</h3>
+																</div>
+																<div class="hlth-img">
+																	<img src="images/hlth-img.jpg" alt="/">
+																	<div class="custom-file mb-3">
+																		<input type="file" class="custom-file-input" id="customFile" name="filename">
+																		<label class="custom-file-label" for="customFile"></label>
+																	</div>
+																</div>
+																<div class="hlth-form user">
+																	<form>
+																		<div class="form-cntact">
+																			<div class="form-group">
+																				<label for="datepicker">Date Of Birth</label>
+																				<div class="sd-container">
+																					<input class="sd form-control" type="date" name="selected_date"
+																						value="dd / mm / yyyy" />
+																					<span class="open-button">
+																						<button type="button"><img src="images/dt-pckr-img.png"
+																								alt="/"></button>
+																					</span>
+																				</div>
+																			</div>
+																			<div class="form-group">
+																				<label for="male">
+																					Birth Sex
+																				</label><br>
+																				<div class="hlth-gndr">
+																					<label class="radio-button">
+																						<input type="radio" class="radio-button__input" id="choice1-1"
+																							name="choice1">
+																						<span class="radio-button__control"></span>
+																						<span class="radio-button__label">Male</span>
+																					</label>
+																					<label class="radio-button">
+																						<input type="radio" class="radio-button__input" id="choice1-1"
+																							name="choice1">
+																						<span class="radio-button__control"></span>
+																						<span class="radio-button__label">Female</span>
+																					</label>
+																				</div>
+																			</div>
+																			<div class="form-group">
+																				<label for="">Gender Identity</label>
+										
+																				<select class="form-control">
+																					<option selected="">Select</option>
+																					<option>option 1</option>
+																					<option>option 2</option>
+																				</select>
+																			</div>
+																			<div class="form-group">
+																				<label for="">Patient History</label>
+										
+																				<select class="form-control">
+																					<option selected="">Select</option>
+																					<option>option 1</option>
+																					<option>option 2</option>
+																				</select>
+																			</div>
+																			<div class="form-group">
+																				<label>Allergies</label>
+																				<textarea class="form-control fulhgt"
+																					placeholder="Allergy 1, Allergy 2, Allergy 3, Allergy 4"></textarea>
+																			</div>
+																			<div class="form-group">
+																				<label>Medications</label>
+																				<textarea class="form-control fulhgt"
+																					placeholder="Medication 1, Medication 2, Medication 3"></textarea>
+																			</div>
+																			<div class="form-group add-form">
+																				<label for="">Procedure Name</label>
+																				<div class="row">
+																					<div class="col-md-6">
+																						<input type="text" class="form-control" id="" name="field_name[]"
+																							placeholder="Type procedure name">
+																					</div>
+																					<div class="col-md-6">
+																						<div class="sd-container">
+																							<input class="sd form-control" type="date" name="field_name[]"
+																								value="dd / mm / yyyy" />
+																							<span class="open-button">
+																								<button type="button"><img src="images/dt-pckr-img.png"
+																										alt="/"></button>
+																							</span>
+																						</div>
+																					</div>
+																				</div>
+																			</div>
+																			<div class="form-group add-form">
+																				<label for="">Procedure Name</label>
+																				<div class="row">
+																					<div class="col-md-6">
+																						<input type="text" class="form-control" id="" name="field_name[]"
+																							placeholder="Type procedure name">
+																					</div>
+																					<div class="col-md-6">
+																						<div class="sd-container">
+																							<input class="sd form-control" type="date" name="field_name[]"
+																								value="dd / mm / yyyy" />
+																							<span class="open-button">
+																								<button type="button"><img src="images/dt-pckr-img.png"
+																										alt="/"></button>
+																							</span>
+																						</div>
+																					</div>
+																				</div>
+																			</div>
+																			<div class="appenddiv">
+										
+																			</div>
+																			<div class="addremove_btn">
+																				<div class="add-prcdr">
+																					<a href="javascript:void(0);" class="add_button" title="Add field"> <i
+																							class="fa fa-plus" aria-hidden="true"></i>Add More Procedure</a>
+																				</div>
+																				<div class="add-prcdr minusclass">
+																					<a href="javascript:void(0);"  class="remove_button"
+																						title="Add field"> <i class="fa fa-minus" aria-hidden="true"></i>Remove
+																						Procedure</a>
+																				</div>
+																			</div>
+																			<div class="prcdr-sbmt">
+																				<input type="submit" value="Submit details" id="search-submit">
+																			</div>
+																		</div>
+																	</form>
+																</div>
+															</div>
+															</div>
+														</div>
+														
+													</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- user payment sec end -->
+	<!-- <a href="javascript:" id="return-to-top" style="display: flex; justify-content: center; align-items: center;"><i class="fa fa-angle-up" aria-hidden="true"></i></a> -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+	<!-- Popper JS -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+	<!-- Latest compiled JavaScript -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+	<script src="js/wow.min.js"></script>
+	<script src="js/jquery.fancybox.pack.js"></script>
+	<script src="js/easy-responsive-tabs.js"></script>
+	<script src="js/swiper.js"></script>
+
+	<script src="js/custom.js"></script>
+
+	<script>
+		$(".add_button").click(function () {
+			$(".resp-tab-content.resp-tab-content-active  .appenddiv").append("<div class='form-group add-form'><label for=''>Procedure Name</label><div class='row'><div class='col-md-6'><input type='text' class='form-control' id='' name='field_name[]' placeholder='Type procedure name'> </div><div class='col-md-6'><div class='sd-container'><input class='sd form-control' type='date' name='field_name[]' value='dd / mm / yyyy' /> <span class='open-button'><button type='button'><img src='images/dt-pckr-img.png' alt='/'></button></span></div></div></div></div>");
+			var numItems = $('.resp-tab-content.resp-tab-content-active .appenddiv .form-group.add-form').length;
+			if(numItems==1)
+			{
+				$('.resp-tab-content.resp-tab-content-active .add-prcdr.minusclass').css('display', 'block');
+			}
+		});
+		
+		$(".remove_button").click(function(){
+			$(".resp-tab-content.resp-tab-content-active .appenddiv .add-form:last").remove();
+			var numItems = $('.resp-tab-content.resp-tab-content-active  .appenddiv .form-group.add-form').length;
+			if(numItems<1)
+			{
+				$('.resp-tab-content .add-prcdr.minusclass').css('display', 'none');
+			}
+		});
+	</script>
+	<script>
+		$(document).ready(function () {
+			$('#horizontalTab').easyResponsiveTabs({
+				type: 'default', //Types: default, vertical, accordion           
+				width: 'auto', //auto or any width like 600px
+				fit: true,   // 100% fit in a container
+				closed: 'accordion', // Start closed if in accordion view
+				activate: function (event) { // Callback function if tab is switched
+					var $tab = $(this);
+					var $info = $('#tabInfo');
+					var $name = $('span', $info);
+					$name.text($tab.text());
+					$info.show();
+				}
+			});
+			$('#verticalTab').easyResponsiveTabs({
+				type: 'vertical',
+				width: 'auto',
+				fit: true
+			});
+		});
+	</script>
+</body>
+
+</html>

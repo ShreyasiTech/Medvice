@@ -1,0 +1,167 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>MEDVICE</title>
+	<meta name="description" content="" />
+	<meta name="author" content="admin" />
+	<meta name="viewport" content="width=device-width; initial-scale=1.0" />
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap"
+		rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+	<link rel="shortcut icon" href="images/favicon.png" alt="" />
+	<link href="css/font-awesome.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/bootstrap.css" />
+	<link rel="stylesheet" href="css/animate.css" media="all" />
+	<link rel="stylesheet" href="css/jquery.fancybox.css" />
+	<link rel="stylesheet" href="css/swiper.css" />
+	<link rel="stylesheet" href="css/custom.css" />
+	<link rel="stylesheet" href="css/responsive.css" />
+</head>
+
+<body>
+	<!-- option sec start -->
+	<section class="mdvc-optn">
+
+		<div class="optn-dtl">
+			<div class="optn-lgo">
+				<div class="logo_area">
+					<a href="index.html">
+						<img class="img-fluid" src="images/logo.png" alt="">
+					</a>
+				</div>
+				<div class="optn-prt">
+					<div class="optn-prt-dtl">
+						<div class="optn-prt-img">
+							<img src="images/dshbrd-img.png" alt="/">
+						</div>
+						<div class="optn-prt-txt">
+							<h5>dashboard</h5>
+						</div>
+					</div>
+					<div class="optn-prt-dtl">
+						<div class="optn-prt-img">
+							<img src="images/cnsltnt-img.png" alt="/">
+						</div>
+						<div class="optn-prt-txt">
+							<h5> Consultations</h5>
+						</div>
+					</div>
+					<div class="optn-prt-dtl">
+						<div class="optn-prt-img">
+							<img src="images/answr-img.png" alt="/">
+						</div>
+						<div class="optn-prt-txt">
+							<h5>My Answers</h5>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="crtr-prfl">
+				<div class="crtr-prfl-img">
+					<img src="images/hldr-img.png" alt="/">
+				</div>
+				<div class="crtr-prfl-txt cmn_hdr">
+					<p>Sam Walker</p>
+					<div class="crtr-prfl-anchr">
+						<a href="javascript:void(0);">My Account</a>
+						<a href="javascript:void(0);">Sign Out</a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</section>
+	<!-- option sec end -->
+	<!-- user payment sec start -->
+	<section class="user crt-qstn cmn_pdding">
+		<div class="container">
+			<div class="trt-dtl">
+				<h3>Create Your Question</h3>
+			</div>
+			<div class="answr-info-dtl">
+				<div class="pymnt-form">
+					<form>
+						<div class="form-cntct">
+							<div class="row">
+								<div class="col-md-12">
+									<div class="form-group">
+										<label for="">Title</label>
+										<input type="text" id="" class="form-control" placeholder="">
+									</div>
+								</div>
+								<div class="col-md-12">
+									<div class="form-group fullheight">
+										<label for="">Description</label>
+										<textarea class="form-control" placeholder=""></textarea>
+									</div>
+								</div>
+								<div class="col-md-12">
+									<div class="form-group">
+										<label for="">Requested Specialties</label>
+										<select class="form-control">
+											<option selected="">Select</option>
+											<option>Option 1</option>
+											<option>Option 2</option>
+										</select>
+									</div>
+								</div>
+								<div class="col-md-12">
+									<div class=" form-group">
+										<label for="">Attach Documents</label>
+										<input type="file" class="custom-file-input" id="customFile" name="filename">
+										<label class="custom-file-label" for="customFile">Drag & Drop Here Image</label>
+									  </div>
+								</div>
+								<div class="col-md-12">
+									<div class="form-group fullheight">
+										<label for="">Add The Caption</label>
+										<textarea class="form-control" placeholder=""></textarea>
+									</div>
+								</div>
+
+							<div class="col-md-12 text-center">
+								<input type="submit" value="Submit Question" id="search_submit">
+							</div>
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- user payment sec end -->
+	<!-- <a href="javascript:" id="return-to-top" style="display: flex; justify-content: center; align-items: center;"><i class="fa fa-angle-up" aria-hidden="true"></i></a> -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+	<!-- Popper JS -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+	<!-- Latest compiled JavaScript -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+	<script src="js/wow.min.js"></script>
+	<script src="js/jquery.fancybox.pack.js"></script>
+	<script src="js/swiper.js"></script>
+	<!-- accordion js -->
+	<script>
+		var acc = document.getElementsByClassName("accordion");
+		var i;
+
+		for (i = 0; i < acc.length; i++) {
+			acc[i].addEventListener("click", function () {
+				this.classList.toggle("active");
+				var panel = this.nextElementSibling;
+				if (panel.style.display === "block") {
+					panel.style.display = "none";
+				} else {
+					panel.style.display = "block";
+				}
+			});
+		}
+	</script>
+	<script src="js/custom.js"></script>
+</body>
+
+</html>

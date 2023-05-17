@@ -1,0 +1,201 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>MEDVICE</title>
+	<meta name="description" content="" />
+	<meta name="author" content="admin" />
+	<meta name="viewport" content="width=device-width; initial-scale=1.0" />
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap"
+		rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+	<link rel="shortcut icon" href="images/favicon.png" alt="" />
+	<link href="css/font-awesome.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/bootstrap.css" />
+	<link rel="stylesheet" href="css/animate.css" media="all" />
+	<link rel="stylesheet" href="css/jquery.fancybox.css" />
+	<link rel="stylesheet" href="css/swiper.css" />
+	<link rel="stylesheet" href="css/custom.css" />
+	<link rel="stylesheet" href="css/responsive.css" />
+</head>
+
+<body>
+	<!-- option sec start -->
+	<section class="mdvc-optn">
+
+		<div class="optn-dtl">
+			<div class="optn-lgo">
+				<div class="logo_area">
+					<a href="index.html">
+						<img class="img-fluid" src="images/logo.png" alt="">
+					</a>
+				</div>
+				<div class="optn-prt">
+					<div class="optn-prt-dtl">
+						<div class="optn-prt-img">
+							<img src="images/dshbrd-img.png" alt="/">
+						</div>
+						<div class="optn-prt-txt">
+							<h5>dashboard</h5>
+						</div>
+					</div>
+					<div class="optn-prt-dtl">
+						<div class="optn-prt-img">
+							<img src="images/cnsltnt-img.png" alt="/">
+						</div>
+						<div class="optn-prt-txt">
+							<h5> Consultations</h5>
+						</div>
+					</div>
+					<div class="optn-prt-dtl">
+						<div class="optn-prt-img">
+							<img src="images/answr-img.png" alt="/">
+						</div>
+						<div class="optn-prt-txt">
+							<h5>My Answers</h5>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="crtr-prfl">
+				<div class="crtr-prfl-img">
+					<img src="images/hldr-img.png" alt="/">
+				</div>
+				<div class="crtr-prfl-txt cmn_hdr">
+					<p>Sam Walker</p>
+					<div class="crtr-prfl-anchr">
+						<a href="javascript:void(0);">My Account</a>
+						<a href="javascript:void(0);">Sign Out</a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</section>
+	<!-- option sec end -->
+	<!-- user payment sec start -->
+	<section class="user cmn_pdding">
+		<div class="container">
+			<div class="trt-dtl">
+				<h3>Your Payment</h3>
+			</div>
+			<div class="answr-info-dtl">
+				<div class="optn-prt-txt">
+					<div class="usr-dtl">
+						<h5>Credit Card Fields</h5>
+						<div class="pymnt-optn">
+							<div class="pymnt-img">
+								<img src="images/pymnt-img1.png" alt="/">
+							</div>
+							<div class="pymnt-img">
+								<img src="images/pymnt-img2.png" alt="/">
+							</div>
+							<div class="pymnt-img">
+								<img src="images/pymnt-img3.png" alt="/">
+							</div>
+							<div class="pymnt-img">
+								<img src="images/pymnt-img4.png" alt="/">
+							</div>
+							<div class="pymnt-img">
+								<img src="images/pymnt-img5.png" alt="/">
+							</div>
+						</div>
+					</div>
+					<div class="pymnt-optn-info">
+						<div class="pymnt-optn-dtl">
+							<h5>Payment Amount</h5>
+							<div class="cmn_hdr">
+								<h3>$320.56</h3>
+							</div>
+						</div>
+						<div class="pymnt-optn-dtl">
+							<a href="javascript:void(0);">Edit</a>
+						</div>
+					</div>
+				</div>
+				<div class="pymnt-form">
+					<form>
+						<div class="form-cntct">
+							<div class="row">
+								<div class="col-md-12">
+									<div class="form-group">
+										<label for="">We Paying For</label>
+										<!-- <input type="text" id="" class="form-control" placeholder="Select Your Issue"> -->
+										<select class="form-control">
+											<option selected="">Select Your Issue</option>
+											<option>Issue 1</option>
+											<option>Issue 2</option>
+										</select>
+									</div>
+								</div>
+								<div class="col-md-12">
+									<div class="form-group">
+										<label for="">Card Numbers</label>
+										<input type="tel" id="" inputmode="numeric" maxlength="16" class="form-control" onkeypress='return event.charCode >= 48 && event.charCode <= 57 || event.charCode <= 8'
+										required onblur="mobileCheck()"
+											placeholder="">
+									</div>
+								</div>
+								<div class="col-md-12">
+									<div class="form-group">
+										<label for="">Zip Code</label>
+										<input type="tel" id="" inputmode="numeric" maxlength="6" class="form-control" onkeypress='return event.charCode >= 48 && event.charCode <= 57 || event.charCode <= 8'
+										required onblur="mobileCheck()"
+											placeholder="">
+
+									</div>
+								</div>
+								<div class="col-md-12">
+									<div class="form-group">
+										<label for="">CVV Code</label>
+										<input type="password" id="" inputmode="numeric" maxlength="4" class="form-control" onkeypress='return event.charCode >= 48 && event.charCode <= 57 || event.charCode <= 8'
+										required onblur="mobileCheck()"
+											placeholder="">
+
+									</div>
+								</div>
+							</div>
+							<div class="col-md-12 text-center srch">
+								<input type="submit" value="Pay $320.56" id="search_submit">
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- user payment sec end -->
+	<!-- <a href="javascript:" id="return-to-top" style="display: flex; justify-content: center; align-items: center;"><i class="fa fa-angle-up" aria-hidden="true"></i></a> -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+	<!-- Popper JS -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+	<!-- Latest compiled JavaScript -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+	<script src="js/wow.min.js"></script>
+	<script src="js/jquery.fancybox.pack.js"></script>
+	<script src="js/swiper.js"></script>
+	<!-- accordion js -->
+	<script>
+		var acc = document.getElementsByClassName("accordion");
+		var i;
+
+		for (i = 0; i < acc.length; i++) {
+			acc[i].addEventListener("click", function () {
+				this.classList.toggle("active");
+				var panel = this.nextElementSibling;
+				if (panel.style.display === "block") {
+					panel.style.display = "none";
+				} else {
+					panel.style.display = "block";
+				}
+			});
+		}
+	</script>
+	<script src="js/custom.js"></script>
+</body>
+
+</html>

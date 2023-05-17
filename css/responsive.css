@@ -1,0 +1,4262 @@
+@media (max-width: 1920px) {}
+
+@media (max-width: 1680px) {
+  .container {
+    max-width: 1450px;
+  }
+
+  /* ----------shreyasi(9.7.22)--------------- */
+  /* --header---- */
+  .logo_area {
+    width: 180.25px;
+  }
+
+  ul.navbar-nav li a {
+    font-size: 17.50px;
+  }
+
+  .cmn_btn {
+    font-size: 17.50px;
+  }
+
+  /* ----banner---- */
+  .bnr_content h1 {
+    font-size: 49px;
+    width: 732px;
+  }
+
+  .bnr-form .form-cntct .form-control {
+    width: 491px;
+    height: 59px;
+    padding: 0 145px 0 19px;
+  }
+
+  .bnr-form .cmn_btn {
+    height: 58px;
+    right: 22px;
+  }
+
+  /* ---common form font----- */
+  .form-cntct .form-control::-webkit-input-placeholder {
+    font-size: 17.50px;
+  }
+
+  .form-cntct .form-control::-moz-placeholder {
+    font-size: 17.50px;
+  }
+
+  .form-cntct .form-control:-ms-input-placeholder {
+    font-size: 17.50px;
+  }
+
+  .form-cntct .form-control::-ms-input-placeholder {
+    font-size: 17.50px;
+  }
+
+  /* ----common sec----- */
+  .cmn_hdr h2 {
+    font-size: 42px;
+  }
+
+  .cmn_hdr h3 {
+    font-size: 28px;
+  }
+
+  .cmn_hdr h4 {
+    font-size: 24.5px;
+  }
+
+  .cmn_hdr p {
+    font-size: 17.50px;
+  }
+
+  .cmn_pdding {
+    padding: 78.75px 0;
+  }
+
+  a {
+    font-size: 17.50px;
+  }
+
+  /* ---post sec---- */
+  .post-part {
+    padding: 60px 0 45px;
+  }
+
+  .post-txt .cmn_hdr h4 {
+    min-height: 133px;
+    width: 377px;
+  }
+
+  .post-txt-dtl.cmn_hdr p {
+    width: 265px;
+  }
+
+  .post-pagination {
+    margin-top: 304px;
+  }
+
+  /* ---human problem sec---- */
+  .humn-prb::after {
+    width: 586.25px;
+    height: 491.75px;
+    right: 77px;
+  }
+
+  .human-img::after {
+    width: 327px;
+    height: 369px;
+  }
+
+  .dot-dtls5 {
+    left: 30%;
+  }
+
+  .dot-dtls7 {
+    right: 24%;
+  }
+
+  /* .dot-dtls6 {
+        top: 66%;
+        right: 26%;
+      } */
+  .dot-dtls1 {
+    top: 92px;
+  }
+
+  /* ---get sec---- */
+  .get-img-txt h3 {
+    font-size: 56.25px;
+  }
+
+  /* ---client sec---- */
+  .client::after {
+    width: 565.25px;
+    height: 474.25px;
+  }
+
+  .client-img {
+    width: 38%;
+  }
+
+  /* ---footer sec---- */
+  .ftr-list {
+    padding-top: 61.62px;
+  }
+
+  .ftr-list ul li a {
+    font-size: 17.50px;
+  }
+
+  .ftr-btm-details .cmn_hdr a {
+    font-size: 17.50px;
+  }
+
+  .ftr-list ul li {
+    padding-bottom: 21px;
+  }
+
+  /* -----mdcl exprt testimonal sec start--- */
+  .mdcl-exprt-bnr .bnr_content h2 {
+    width: 698px;
+  }
+
+  .mdcl-tstmnl-txt::after {
+    width: 103.75px;
+    height: 71.75px;
+  }
+
+  .mdcl-exprt-bnr .bnr-form .cmn_btn {
+    right: 27px;
+  }
+
+  .custom-file-label {
+    font-size: 17.50px;
+  }
+
+
+
+  /* Ankur 05.08.2022 */
+
+  /* Form Sec*/
+
+  .ttl_form_otr .frm_otr {
+
+    width: 1160px;
+  }
+
+  .ttl_form_otr input {
+
+    margin-bottom: 30px;
+    width: 700px;
+  }
+
+  .ttl_form_otr .cmn_btn {
+
+    margin-top: 12px;
+  }
+/* ------shreyasi(8.7.22)-------------- */
+/* ---doc profile---- */
+.trt-dtl h3{
+  font-size: 18.75px;
+}
+.cmpr-prt{
+  width: 32%;
+  padding: 20px 15px 20px 15px;
+}
+.cmpre-prt-txt .optn-prt-txt h5{
+font-size: 13.50px;
+}
+.cmpr-prt {
+  text-align: left;
+}
+.cmpr-prt .optn-prt-txt .fa {
+
+  padding-right: 8px;
+}
+.cmpr-prt .answr-more a {
+  font-size: 14px;
+
+}
+.main_para {
+
+  padding-bottom: 20px;
+}
+/* ---prnt-exprt-page----- */
+.ptnt-prt-info li a {
+  font-size: 13px;
+  padding-left: 6px;
+}
+/* ----single question page---- */
+.qstn .qstn-clnt.cmn_hdr p{
+  font-size: 14.50px;
+}
+.qstn-clnt {
+  width: 79%;
+}
+/* ---single question page------ */
+/* ----shreyasi(16.8.22)--------- */
+.dctr-pst::after {
+  width: 99px;
+}
+.caps-icn{
+  width: 72%;
+}
+/* -----user dashboard page--------- */
+/* ----shreyasi(17.8.22)--------- */
+/* .dshbrd-dtl .qst-inr{
+  width: 663px;
+} */
+.dshbrd-dtl .trt-dtl h3 {
+  font-size: 17.75px;
+}
+
+
+}
+
+@media (max-width: 1440px) {
+  .container {
+    max-width: 1340px;
+  }
+
+  /* ----------shreyasi(9.7.22)--------------- */
+  /* --header---- */
+  .logo_area {
+    width: 154.5px;
+  }
+
+  ul.navbar-nav li a {
+    font-size: 17px;
+  }
+
+  .cmn_btn {
+    font-size: 17px;
+  }
+
+  /* ----banner---- */
+  .bnr_content h1 {
+    font-size: 42px;
+    width: 624px;
+  }
+
+  .bnr-form .form-cntct .form-control {
+    width: 463px;
+    /* height: 60px;*/
+    padding: 0 125px 0 15px;
+  }
+
+  .bnr-form .cmn_btn {
+    /* height: 58px; */
+    right: -25px;
+    padding: 15px 26px;
+  }
+
+  /* ---common form font----- */
+  .form-cntct .form-control::-webkit-input-placeholder {
+    font-size: 17px;
+  }
+
+  .form-cntct .form-control::-moz-placeholder {
+    font-size: 17px;
+  }
+
+  .form-cntct .form-control:-ms-input-placeholder {
+    font-size: 17px;
+  }
+
+  .form-cntct .form-control::-ms-input-placeholder {
+    font-size: 17px;
+  }
+
+  /* ----common sec----- */
+  .cmn_hdr h2 {
+    font-size: 36px;
+  }
+
+  .cmn_hdr h3 {
+    font-size: 24px;
+  }
+
+  .cmn_hdr h4 {
+    font-size: 21px;
+  }
+
+  .cmn_hdr p {
+    font-size: 17px;
+  }
+
+  .cmn_pdding {
+    padding: 67.5px 0;
+  }
+
+  /* ---feature sec--- */
+  .ftr-img {
+    width: 19%;
+  }
+
+  a {
+    font-size: 17px;
+  }
+
+  /* ---post sec---- */
+
+  .post-part {
+    padding: 48px 0 38px;
+  }
+
+  .post-txt .cmn_hdr h4 {
+    min-height: 96px;
+    width: 344px;
+  }
+
+  .post-txt-info p span {
+    padding-right: 6px;
+  }
+
+  /* .post-txt-dtl.cmn_hdr p{
+        width: 265px;
+      } */
+  .post-pagination {
+    margin-top: 268px;
+  }
+
+  /* ---human problem sec---- */
+  .human-form .form-cntct .form-control {
+    width: 453px;
+    height: 57px;
+  }
+
+  .dot-dtls {
+    width: 18.37px;
+    height: 18.37px;
+  }
+
+  .humn-prb::after {
+    width: 502.50px;
+    height: 421.7050px;
+  }
+
+  .human-img::after {
+    width: 282px;
+    height: 375px;
+    right: -31px;
+  }
+
+  /* .dot-dtls0{
+        top: -42px;
+      } */
+  .dot-dtls3 {
+    right: 36%;
+    /* top: 87px; */
+  }
+
+  .dot-dtls5 {
+    left: 29%;
+  }
+
+  .dot-dtls7 {
+    right: 22%;
+  }
+
+  .dot-dtls6 {
+    right: 41%;
+  }
+
+  .dot-dtls8 {
+    left: 41%;
+  }
+
+  .human-form .cmn_btn {
+    margin-top: 35px;
+    height: 54px;
+  }
+
+  /* ---get sec---- */
+  .get-part {
+    margin-top: 12px;
+  }
+
+  .get-txt {
+    padding: 63px 40px;
+  }
+
+  .get-img-txt h3 {
+    font-size: 48px;
+  }
+
+  /* ---client sec---- */
+  .client::after {
+    width: 564.25px;
+    height: 489.25px;
+  }
+
+  .client-img {
+    width: 46%;
+  }
+
+  .clnt-sldr {
+    padding-bottom: 124px;
+  }
+
+  /* ---footer sec---- */
+  .ftr-list {
+    padding-top: 48.25px;
+  }
+
+  .ftr-bttm {
+    padding: 25px 0;
+  }
+
+  .top-ftr::after {
+    width: 408.62px;
+    height: 342px;
+  }
+
+  .ftr-uppr {
+    padding: 50px 0 30px;
+  }
+
+  .ftr-list ul li a {
+    font-size: 17px;
+  }
+
+  .ftr-btm-details .cmn_hdr a {
+    font-size: 17px;
+  }
+
+  .ftr-list ul li .fa {
+    width: 28px;
+    height: 28px;
+    font-size: 18px;
+  }
+
+  .frth-ftr .ftr-list ul li {
+    padding-bottom: 17px;
+  }
+
+  .ftr-list ul li {
+    padding-bottom: 22px;
+  }
+
+  /* ----------------medical expert page---------------------- */
+  .mdcl-tstmnl-grp img {
+    width: 90px;
+  }
+
+  .custom-file-label {
+    font-size: 17px;
+  }
+
+  /* sandip-12-07 */
+
+  .cmnty-part {
+    padding: 50px 0;
+  }
+
+  /* Ankur 05.08.2022 */
+
+  /* Form Sec*/
+
+  .ttl_form_otr .frm_otr {
+
+    width: 880px;
+    height: 725px;
+  }
+
+  .ttl_form_otr input:first-child {
+
+    margin-top: 22px;
+  }
+
+  .ttl_form_otr h2 {
+
+    padding-top: 50px;
+  }
+
+  .ttl_form_otr input {
+
+    margin-bottom: 30px;
+    width: 650px;
+    padding: 25px 0;
+    padding-left: 85px;
+  }
+
+  .ttl_form_otr {
+
+    height: auto;
+  }
+
+  .ttl_form_otr .cmn_btn {
+
+    margin-top: 12px;
+  }
+  /* ------shreyasi(8.7.22)-------------- */
+/* ---doc profile---- */
+.dc-prfl-img {
+  margin-top: 43px;
+}
+.main_para {
+  width: 77%;
+  padding-bottom: 15px;
+}
+.dc-prfl-img .dc-prfl-main-img img{
+  width: 160.13px;
+  height: 160.13px;
+}
+.dc-prfl-img .dc-prfl-img-brdr-inr{
+  width: 168.88px;
+  height: 168.88px;
+}
+.dc-prfl-prt .accordion{
+  font-size: 16.30px;
+}
+.trt-dtl h3 {
+  font-size: 18px;
+}
+.ofc_info .addrs_info p {
+
+  padding-bottom: 17px;
+}
+.dc_prfl_btn .cmn_btn {
+
+  width: 301px;
+}
+.ofc_info {
+
+  padding-top: 22px;
+}
+.ofc_info .addrs_info {
+  padding-left: 15px;
+}
+.cmpr-prt-img img{
+  width: 76.25px;
+  height: 76.25px;
+}
+.cmpre-prt-txt .optn-prt-txt .fa-thumbs-up {
+padding-right: 6px;
+  font-size: 16px;
+}
+.trt-dtl h3 {
+  font-size: 17px;
+}
+.cmpre-rtng-img{
+  width: 55%;
+}
+.cmpr-prt {
+
+  padding: 20px 11px 20px 8px;
+}
+.cmpre-prt-txt .optn-prt-txt h5 {
+  font-size: 13.10px;
+}
+.mdvc-optn {
+
+  padding: 15px 60px;
+}
+.dc-prfl-dtl.mdvc-optn {
+
+  padding: 35px 0;
+}
+/* ---prnt-exprt-page----- */
+.ptnt-tbl:last-child {
+  width: 15%;
+}
+.ptnt-tbl:nth-child(4) {
+  width: 24%;
+}
+/* ---payment page----- */
+.srch::after {
+  left: 38%;
+}
+/* ----single question page---- */
+.qstn-clnt {
+  width: 86%;
+}
+/* ---single question page------ */
+/* ----shreyasi(16.8.22)--------- */
+.dctr-pst::after {
+  width: 90px;
+}
+.caps-icn{
+  width: 83%;
+}
+.qst-chck{
+  width: 21%;
+}
+.dc-prfl-info-dtl {
+  padding-top: 5px;
+}
+.ntfctn-bx-dtl .optn-prt-txt h5{
+  padding-left: 15px;
+}
+.ntfctn-bx-dtl .cmn_hdr p {
+  font-size: 14px;
+  width: 196px;
+}
+/* -----user dashboard page--------- */
+/* ----shreyasi(17.8.22)--------- */
+.dshbrd-frm-dtl input[type="submit"]{
+  margin-bottom: 12px;
+}
+.dshbrd-dtl .dc-prfl-info-dtl{
+  margin-top: 20px;
+}
+.dshbrd-frm{
+  margin-top: 45px;
+}
+}
+
+@media (max-width: 1366px) {
+  .container {
+    max-width: 1240px;
+  }
+
+  /* ----------shreyasi(9.7.22)--------------- */
+  .client-img {
+    width: 48%;
+  }
+
+  .clnt-pgntn {
+    bottom: 90px;
+  }
+
+  .cmunity-dtl {
+    padding: 50px 0 35px;
+  }
+
+  .cmnty-form .cmn_btn {
+    height: 57px;
+  }
+
+  .cmnty-form .form-cntct .form-control {
+    height: 55px;
+  }
+
+  /* ----------------medical expert page---------------------- */
+  .mdcl-tstmnl-part {
+    padding: 30px 16px 50px 11px;
+  }
+
+  .mdcl-tstmnl-part-dtl {
+    padding-right: -13px;
+  }
+
+  .mdcl-tstmnl-dtls {
+    padding: 37.5px 0;
+  }
+
+  /* .mdcl-tstmnl-grp .cmn_hdr h3 {
+  font-size: 22px;
+} */
+  .mdcl-exprt-bnr .bnr-form .cmn_btn {
+    right: 79px;
+  }
+
+  .mdcl-exprt-bnr .bnr-form .cmn_btn {
+    right: 27px;
+  }
+
+  /* --------how it works page--------------- */
+  .hlth-advc .human-img::after {
+    width: 381px;
+    left: -60%;
+
+  }
+
+  .custom-file-label {
+    height: 56px;
+  }
+
+  .custom-file-input:lang(en)~.custom-file-label::after {
+    width: 55.13px;
+    height: 55.13px;
+  }
+  /* ------shreyasi(8.7.22)-------------- */
+/* ---doc profile---- */
+.dc-prfl-img .optn-prt-txt h5 {
+
+  padding-bottom: 8px;
+
+}
+.trt-dtl-prt {
+  width: 30%;
+
+  padding: 16px 0 5px;
+}
+.trt-dtl h3 {
+
+  padding-bottom: 11px;
+}
+/* .compare-dtl{
+flex-wrap: nowrap;
+} */
+.cmpr-prt{
+  width: 48%;
+}
+.cmpre-prt-txt{
+  text-align: center;
+}
+.cmpr-rtng{
+  width: 78%;
+margin: auto;
+}
+.cmpre-prt-txt .mdcl-exprt-btn {
+  text-align: center;
+}
+.cmpre-prt-txt .optn-prt-txt h5 {
+  font-size: 13.50px;
+}
+.lctn-txt{
+  text-align: left;
+}
+.lctn-txt  .mdcl-exprt-btn {
+  text-align: left;
+}
+.dc-prfl-acrdn .cmn_hdr h4 {
+
+  padding-bottom: 15px;
+}
+.lctn_img {
+  padding-right: 12px;
+}
+.ofc_info h5 {
+
+  padding-bottom: 19px;
+}
+.optn-prt{
+  min-width: 455px;
+}
+.optn-lgo {
+  min-width: 666px;
+}
+/* ---prnt-exprt-page----- */
+.ptnt-tbl:nth-child(4) .ptnt-prt-info img{
+  width: 15px;
+}
+.ptnt-tbl {
+  padding-left: 5px;
+}
+.ptnt-prt-info li a {
+  padding-left: 3px;
+}
+.ptnt-tbl:nth-child(3) {
+  width: 26%;
+}
+.ptnt-tbl:nth-child(4) {
+  width: 26%;
+}
+.ptnt-tbl {
+  width: 18%;
+  height: 160px;
+}
+.checkmark {
+  height: 20px;
+  width: 20px;
+}
+/* ----single question page---- */
+.qstn-clnt {
+  width: 94%;
+}
+/* ---single question page------ */
+/* ----shreyasi(16.8.22)--------- */
+.dctr-pst::after {
+  width: 94px;
+}
+.dctr-pst {
+  width: 17%;
+}
+.caps-icn {
+  width: 86%;
+  margin-top: 10px;
+}
+.qst-otr .cmnty-btn .cmn_btn {
+  padding: 10px 35px;
+}
+.ntfctn-bx-dtl .optn-prt-txt h5 {
+  padding-left: 0px;
+}
+/* -----user dashboard page--------- */
+/* ----shreyasi(17.8.22)--------- */
+.dshbrd-nm {
+  margin-right: 14px;
+}
+.dshbrd-nm {
+  width: 43px;
+  height: 43px;
+}
+.dshbrd-dtl .trt-dtl h3{
+  padding-right: 10px;
+}
+}
+
+
+@media (max-width: 1280px) {
+  .container {
+    max-width: 1140px;
+  }
+
+  /* ----------shreyasi(9.7.22)--------------- */
+  /* --header---- */
+  .logo_area {
+    width: 135.96px;
+  }
+
+  ul.navbar-nav li a {
+    font-size: 16px;
+  }
+
+  .cmn_btn {
+    font-size: 16px;
+    padding: 14px 26px;
+  }
+
+  /* ----banner---- */
+  .bnr_content h1 {
+    font-size: 36.96px;
+    width: 550px;
+  }
+
+  .bnr-form .form-cntct .form-control {
+    width: 410px;
+    height: 50px;
+    padding: 0 102px 0 10px;
+  }
+
+  .bnr-form .cmn_btn {
+    height: 49px;
+    right: -25px;
+    padding: 15px;
+  }
+
+  /* ---common form font----- */
+  .form-cntct .form-control::-webkit-input-placeholder {
+    font-size: 16px;
+  }
+
+  .form-cntct .form-control::-moz-placeholder {
+    font-size: 16px;
+  }
+
+  .form-cntct .form-control:-ms-input-placeholder {
+    font-size: 16px;
+  }
+
+  .form-cntct .form-control::-ms-input-placeholder {
+    font-size: 16px;
+  }
+
+  /* ----common sec----- */
+  .cmn_hdr h2 {
+    font-size: 31.68px;
+  }
+
+  .cmn_hdr h3 {
+    font-size: 21.12px;
+  }
+
+  .cmn_hdr h4 {
+    font-size: 18.48px;
+  }
+
+  .cmn_hdr p {
+    font-size: 16px;
+  }
+
+  .cmn_pdding {
+    padding: 59.4px 0;
+  }
+
+  a {
+    font-size: 16px;
+  }
+
+  /* ---feature sec--- */
+  /* .ftr-img{
+        width: 19%;
+    } */
+  /* ---post sec---- */
+  .post-part {
+    padding: 40px 0 27px;
+  }
+
+  .post-txt .cmn_hdr h4 {
+    width: 285px;
+    min-height: 108px;
+  }
+
+  .post-txt-dtl.cmn_hdr p {
+    width: 226px;
+    min-height: 35px;
+  }
+
+  .post-pagination {
+    margin-top: 332px;
+  }
+
+  .post-txt {
+    top: 185px;
+    padding: 20px 15px;
+  }
+
+  .post-txt-chck {
+    margin-top: 4px;
+  }
+
+  /* ---human problem sec---- */
+  .human-txt .cmn_hdr p {
+    padding: 16px 0 25px;
+    width: 609px;
+  }
+
+  .human-form .form-cntct .form-control {
+    padding: 0 30px 0 15px;
+  }
+
+  .dot-dtls {
+    width: 16.37px;
+    height: 16.37px;
+  }
+
+  .dot-dtls0 {
+    top: -8px;
+  }
+
+  .humn-prb::after {
+    width: 442.2px;
+    height: 370.92px;
+    right: 67px;
+  }
+
+  .human-img::after {
+    width: 244px;
+    height: 360px;
+  }
+
+  /* .dot-dtls3 {
+        right: 15%;
+      } */
+  .dot-dtls5 {
+    left: 25%;
+    top: 33%;
+  }
+
+  .dot-dtls7 {
+    right: 18%;
+  }
+
+  .dot-dtls6 {
+    right: 39%;
+  }
+
+  .dot-dtls8 {
+    left: 39%;
+  }
+
+  /* .human-form .cmn_btn{
+        margin-top: 35px;
+        height: 54px;
+      } */
+  /* ---get sec---- */
+  /* .get-part{
+        margin-top: 12px;
+      } */
+  .get-txt {
+    padding: 47px 40px;
+  }
+
+  .get-img-txt h3 {
+    font-size: 42.24px;
+  }
+
+  /* ---client sec---- */
+  .client::after {
+    width: 483.36px;
+    height: 451.25px;
+  }
+
+  .client-img {
+    width: 45%;
+  }
+
+  /* .clnt-sldr{
+        padding-bottom: 124px;
+      } */
+  /* ---community sec----- */
+  .cmunity-dtl {
+    padding: 29px 0 33px;
+  }
+
+  .cmunty-dtl-prt a {
+    padding: 15px 15px 7px;
+  }
+
+  .cmnty-btn .cmn_btn {
+    padding: 15px 139px;
+  }
+
+  /* ---footer sec---- */
+  .first-ftr .logo_area {
+    padding-bottom: 15px;
+  }
+
+  .ftr-list {
+    padding-top: 29.18px;
+  }
+
+  .ftr-bttm {
+    padding: 20px 0;
+  }
+
+  .top-ftr::after {
+    width: 350.62px;
+    height: 294px;
+  }
+
+  .ftr-uppr {
+    padding: 40px 0 25px;
+  }
+
+  .ftr-list ul li a {
+    font-size: 16px;
+  }
+
+  .ftr-btm-details .cmn_hdr a {
+    font-size: 16px;
+  }
+
+  .ftr-list ul li .fa {
+    width: 24px;
+    height: 24px;
+    font-size: 14px;
+  }
+
+  .ftr-list ul li {
+    padding-bottom: 20px;
+  }
+
+  /* ------medical expert page------- */
+  .mdcl-tstmnl-pagination {
+    padding-top: 36px;
+  }
+
+  .mdcl-tstmnl-img {
+    width: 80px;
+  }
+
+  .mdcl-tstmnl-txt {
+    margin-left: 38px;
+  }
+
+  .mdcl-tstmnl-dtls {
+    padding: 33px 0;
+  }
+
+  .mdcl-exprt-bnr .bnr-form .cmn_btn {
+    right: 80px;
+    padding: 13px;
+  }
+
+  .custom-file-label {
+    font-size: 16px;
+  }
+
+  /* sandip-12-07 */
+
+  .cmnt-pic {
+    margin-left: 0px;
+    width: 90%;
+  }
+
+  .cmnty-part {
+    padding: 27px 15px;
+  }
+
+  .cmnt-pagination {
+    margin-top: 50px;
+  }
+
+  /* Ankur 05.08.2022 */
+
+  /* Form Sec*/
+
+  .ttl_form_otr .frm_otr {
+
+    width: 725px;
+    height: 665px;
+  }
+
+  .ttl_form_otr input:first-child {
+
+    margin-top: 22px;
+  }
+
+  .ttl_form_otr h2 {
+
+    padding-top: 40px;
+  }
+
+  .ttl_form_otr input {
+
+    margin-bottom: 30px;
+    width: 575px;
+    padding: 22px 0;
+    padding-left: 85px;
+  }
+
+  .ttl_form_otr {
+
+    height: auto;
+  }
+
+  .ttl_form_otr .cmn_btn {
+
+    margin-top: 12px;
+  }
+    /* ------shreyasi(8.7.22)-------------- */
+/* ---doc profile---- */
+.dc-prfl-info .trt-dtl:last-child .optn-prt-dtl h5 {
+  padding-left: 11px;
+}
+.trt-dtl:nth-child(2) .optn-prt-txt h5 {
+  padding-left: 8px;
+}
+.trt-dtl-prt {
+  width: 35%;
+
+}
+.trt-dtl .optn-prt-txt h5 {
+  padding-bottom: 10px;
+}
+.dc-prfl-img .bld_para p {
+ 
+  margin-bottom: 10px;
+}
+.dc-prfl-img {
+  margin-top: 36px;
+}
+.dc_prfl_btn .cmn_btn {
+  width: 251px;
+}
+.shr_para:first-child {
+  padding-right: 25px;
+}
+.answr-more a {
+  font-size: 15px;
+}
+/* ---prnt-exprt-page----- */
+.ptnt-info-dtl{
+  display: block;
+}
+.ptnt-tbl {
+  width: auto;
+  height: auto;
+  border-right: none;
+  border-bottom: 1px solid #e1e1e1;
+  padding: 10px 15px;
+}
+.ptnt-tbl:nth-child(3) {
+  width: auto;
+}
+.ptnt-tbl:nth-child(4) {
+  width: auto;
+}
+.ptnt-tbl:last-child {
+  width: auto;
+  border-bottom: none;
+}
+.checkmark {
+  top: -16px;
+}
+.ptnt-exprt {
+  margin-top: -38px;
+}
+.ptnt-form .form-control {
+  height: 50px;
+}
+.ptnt-prt-info ul li {
+  padding-bottom: 6px;
+}
+.page-link {
+  padding: 17px;
+}
+.ptnt-prt-info li a {
+  padding-left: 10px;
+}
+.ptnt-tbl .optn-prt-txt h5:first-child {
+  padding-bottom: 5px;
+}
+/* ---payment page----- */
+.srch::after {
+  left: 36%;
+}
+.pymnt-optn-dtl a {
+  padding: 8px 12px;
+}
+.srch::after {
+  width: 17px;
+  height: 15px;
+}
+/* ----single question page---- */
+.qstn-clnt{
+  display: block;
+  width: 100%;
+}
+.qstn-info{
+  align-items: flex-start;
+}
+/* ---single question page------ */
+/* ----shreyasi(16.8.22)--------- */
+.dctr-pst::after {
+  width: 96px;
+}
+.dctr-pst {
+  width: 19%;
+}
+.caps-icn {
+  width: 96%;
+}
+.qst-chck {
+  width: 22%;
+}
+.swiper-button-next-sl {
+  width: 37px;
+  height: 37px;
+}
+.swiper-button-prev-sl {
+  width: 37px;
+  height: 37px;
+}
+.mdvc-dcs .qstn-info {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.mdvc-dcs .dctrs-dtl {
+  padding: 15px 0;
+}
+.ntfctn-bx-dtl .cmn_hdr p {
+  font-size: 13px;
+  width: 175px;
+}
+.dc-pstn .ptnt-info-dtl{
+  position: relative;
+}
+.dc-pstn .ptnt-info-dtl .ptnt-tbl:last-child{
+  position: absolute;
+  top: 0;
+  right: 0;
+
+}
+.dc-pstn .ptnt-info-dtl .ptnt-tbl:first-child{
+  padding: 20px 15px;
+}
+.dc-pstn .ptnt-tbl:nth-child(4){
+  border-bottom: none;
+  padding-bottom: 20px;
+}
+ /* -----user dashboard page--------- */
+/* ----shreyasi(17.8.22)--------- */
+.dshbrd-frm {
+  margin-top: 41px;
+}
+.dshbrd-dtl.dctr-qstn .trt-dtl:nth-child(2) .optn-prt-txt h5 {
+
+  padding: 4px 0;
+}
+.dshbrd-dtl .trt-dtl h3 {
+  font-size: 16px;
+}
+/* ---create health profile---- */
+/* --shreyasi-- */
+.hlth-prfl .resp-tabs-list {
+  width: 40%;
+}
+.hlth-prfl .resp-tabs-container {
+  width: 60%;
+}
+.hlth-dtl .resp-tab-content {
+  padding: 0;
+}
+.hlth-prfl .trt-dtl h3 {
+  padding: 20px 0 20px 0px;
+}
+.hlth-prfl .hlth-info-prfl.trt-dtl h3 {
+  padding: 20px 0 20px 20px;
+}
+.hlth-dtl .resp-tabs-list .resp-tab-item:first-child {
+  margin-top: 20px;
+}
+.hlth-dtl  .resp-tabs-list li {
+  padding: 7px 10px;
+}
+.hlth-dtl  .resp-tab-active{
+  padding: 7px 10px;
+}
+
+}
+
+@media (max-width: 1199px) {}
+
+@media (max-width: 1080px) {
+  .container {
+    max-width: 100%;
+  }
+
+  /* ----------shreyasi(9.7.22)--------------- */
+  /* --header---- */
+  .logo_area {
+    width: 115.87px;
+  }
+
+  ul.navbar-nav li a {
+    font-size: 15px;
+  }
+
+  .cmn_btn {
+    font-size: 15px;
+  }
+
+  /* ----banner---- */
+  .bnr_content h1 {
+    font-size: 31.5px;
+    width: 470px;
+  }
+
+  .bnr-form .form-cntct .form-control {
+    width: 392px;
+    height: 49px;
+    /* padding: 0 102px 0 10px; */
+  }
+
+  .bnr-form .cmn_btn {
+    height: 47px;
+    right: -63px;
+    padding: 12px 15px 15px;
+  }
+
+  /* ---count-sec--- */
+  .count-img {
+    width: 50px;
+    margin: auto;
+  }
+
+  .count-text {
+    padding-top: 18px;
+  }
+
+  .count-text .cmn_hdr h3 {
+    padding-bottom: 6px;
+  }
+
+  /* ---common form font----- */
+  .form-cntct .form-control::-webkit-input-placeholder {
+    font-size: 15px;
+  }
+
+  .form-cntct .form-control::-moz-placeholder {
+    font-size: 15px;
+  }
+
+  .form-cntct .form-control:-ms-input-placeholder {
+    font-size: 15px;
+  }
+
+  .form-cntct .form-control::-ms-input-placeholder {
+    font-size: 15px;
+  }
+
+  /* ----common sec----- */
+  .cmn_hdr h2 {
+    font-size: 27px;
+  }
+
+  .cmn_hdr h3 {
+    font-size: 18.25px;
+  }
+
+  .cmn_hdr h4 {
+    font-size: 15.48px;
+  }
+
+  .cmn_hdr p {
+    font-size: 15px;
+  }
+
+  .cmn_pdding {
+    padding: 50.62px 0;
+  }
+
+  a {
+    font-size: 15px;
+  }
+
+  /* ---feature sec--- */
+  .ftr-img {
+    width: 18%;
+    padding: 23px 16px;
+  }
+
+  .feature-part {
+    padding-top: 22px;
+  }
+
+  /* ---post sec---- */
+  .post-part {
+    padding: 22px 0 25px;
+  }
+
+  .post-txt .cmn_hdr h4 {
+    width: 274px;
+    min-height: 74px;
+  }
+
+  .post-txt-dtl.cmn_hdr p {
+    min-height: 39px;
+  }
+
+  .post-pagination {
+    margin-top: 243px;
+  }
+
+  .post-txt {
+    top: 175px;
+    /* padding: 20px 15px; */
+  }
+
+  .post-txt-chck {
+    margin-top: 2px;
+  }
+
+  /* ---human problem sec---- */
+  .human-txt .cmn_hdr p {
+    width: 534px;
+  }
+
+  /* .human-form .form-cntct .form-control {
+        padding: 0 30px 0 15px;
+      } */
+  .dot-dtls {
+    width: 14.37px;
+    height: 14.37px;
+  }
+
+  .dot-dtls3 {
+    right: 34%;
+  }
+
+  .humn-prb::after {
+    width: 427.2px;
+  }
+
+  /* .human-img::after {
+        width: 244px;
+        height: 360px;
+      } */
+  /* .dot-dtls0 {
+        top: -38px;
+      } */
+  .dot-dtls7 {
+    right: 16%;
+    /* top: 47%; */
+  }
+
+  /* ---get sec---- */
+  /* .get-part{
+        margin-top: 12px;
+      } */
+  /* .get-txt {
+        padding: 50px 40px;
+      }       */
+  .get-img-txt h3 {
+    font-size: 36px;
+  }
+
+  /* ---client sec---- */
+  .client::after {
+    width: 490.36px;
+    height: 460.25px;
+    right: 31px;
+  }
+
+  .client-img {
+    width: 53%;
+  }
+
+  /* .clnt-sldr{
+        padding-bottom: 124px;
+      } */
+  /* ---community sec----- */
+  .cmnty-form .form-cntct .form-control {
+    width: 501px;
+  }
+
+  /* .cmunity-dtl {
+        padding: 29px 0 33px;
+      }
+      .cmunty-dtl-prt a{
+        padding: 15px 15px 7px;
+      }
+      .cmnty-btn .cmn_btn {
+        padding: 15px 139px;
+      } */
+  /* ---footer sec---- */
+  /* .first-ftr .logo_area {
+        padding-bottom: 15px;
+      } */
+  .ftr-list {
+    padding-top: 17.18px;
+  }
+
+  .ftr-bttm {
+    padding: 17px 0;
+  }
+
+  .top-ftr::after {
+    width: 308px;
+    height: 258px;
+  }
+
+  .ftr-uppr {
+    padding: 25px 0;
+  }
+
+  .ftr-list ul li a {
+    font-size: 15px;
+  }
+
+  .ftr-btm-details .cmn_hdr a {
+    font-size: 15px;
+  }
+
+  .ftr-list ul li .fa {
+    width: 21.12px;
+    height: 21.12px;
+    font-size: 13px;
+  }
+
+  .ftr-list ul li {
+    padding-bottom: 14px;
+  }
+
+  .frth-ftr .ftr-list ul li {
+    padding-bottom: 14px;
+  }
+
+  /* ---medical expert page------ */
+  .mdcl-exprt-bnr .bnr-form .cmn_btn {
+    right: 97px;
+  }
+
+  .mdcl-tstmnl-txt::after {
+    width: 88.75px;
+    height: 61.75px;
+  }
+
+  .mdcl-tstmnl-part {
+    padding: 24px 8px 41px 8px;
+  }
+
+  .mdcl-tstmnl-img {
+    width: 71px;
+  }
+
+  .mdcl-tstmnl-part-dtl {
+    padding-left: 37px;
+  }
+
+  /* .mdcl-tstmnl-part:last-child{
+        margin-right: 0;
+      } */
+  /* -----------how it works page---- */
+  .how-wrk-bnr .bnr_pic {
+    padding: 100px 0;
+  }
+
+  .hlth-advc .human-img::after {
+    width: 339px;
+    left: -50%;
+  }
+
+  .hlth-advc .human-img .inr-box7 {
+    left: -133px;
+    top: 35px;
+  }
+
+  .hlth-advc .mdcl-no {
+    margin-bottom: -39px;
+  }
+
+  .hlth-advc .mdcl-team-dtl .row {
+    padding-top: 50px;
+  }
+
+  .hlth-advc-form .form-cntct .form-control {
+    width: 438px;
+  }
+
+  .hlth-advc-form .form-cntct .form-control {
+    padding: 0 15px 0 25px;
+  }
+
+  .hlth-advc .mt-40 {
+    margin-top: 17px;
+  }
+
+  .hlth-advc-form {
+    padding-top: 6px;
+  }
+
+  .hlth-advc-form .cmn_btn {
+    margin-top: 14px;
+  }
+
+  .custom-file-label {
+    margin-top: 22px;
+  }
+
+  .hlth-advc .row:nth-child(2) .hlth-advc-form .cmn_btn {
+    margin-top: 43px;
+  }
+
+  .custom-file-label {
+    font-size: 15px;
+  }
+    /* ------shreyasi(8.7.22)-------------- */
+/* ---doc profile---- */
+.trt-dtl h3 {
+  font-size: 16px;
+}
+.ofc_info h5{
+  padding-left: 15px;
+  padding-right: 0;
+}
+.dc_prfl_btn .cmn_btn {
+  width: 240px;
+}
+.dc-prfl-img .dc-prfl-main-img img {
+  width:137.25px;
+  height: 137.25px;
+}
+.dc-prfl-img .dc-prfl-img-brdr-inr {
+  width: 144.75px;
+  height: 144.75px;
+  margin-bottom: 12px;
+}
+.dc-prfl-img {
+  margin-top: 33px;
+}
+.dc-prfl-prt .accordion {
+  font-size: 15.3px;
+}
+.trt-dtl-prt {
+  width: 48%;
+}
+.votes{
+  width: 48%;
+}
+.trt-dtl h3 {
+  font-size: 15px;
+}
+.dc-prfl-info-dtl {
+  padding-top: 20px;
+}
+.crtr-prfl-anchr a {
+  font-size: 13.5px;
+}
+.optn-lgo {
+  min-width: 598px;
+}
+.optn-prt {
+  min-width: 441px;
+}
+/* ----single question page---- */
+
+.qstn .info-shr {
+  padding: 15px 0;
+}
+.qstn-cls{
+  margin-bottom: -15px;
+}
+/* ---single question page------ */
+/* ----shreyasi(16.8.22)--------- */
+.dctr-pst::after {
+  width: 99px;
+}
+.dctr-pst {
+  width: 21%;
+}
+.ntfctn-bx-dtl{
+display: block;
+}
+.ntfctn-bx-dtl .cmn_hdr p {
+  width: 100%;
+}
+.mdvc-dcs .qst-inr{
+  display: block;
+}
+.mdvc-dcs .qst-chck {
+  width: 100%;
+  justify-content: flex-start;
+  padding-top: 10px;
+}
+.dctr-prgrs{
+  display: block;
+}
+.prgrs-lvl {
+margin: 5px auto;
+text-align: center;
+}
+.dctr-prgrs .optn-prt-txt h5{
+  text-align: center;
+margin: 20px 0;
+width: auto;
+
+}
+.dctr-ldr .dctrs-detls{
+  display: block;
+}
+.dc-bdr{
+  display: block;
+  padding-top: 10px;
+  width: 100%;
+}
+.dc-bdr .optn-prt-txt h5 {
+  padding-right: 0;
+  text-align: center;
+}
+.dc-optns h5:last-child{
+  padding: 10px 0;
+}
+.dctr-ldr .dc-optns:last-child{
+  text-align: center;
+  margin: auto;
+}
+.dctr-ldr .dc-img{
+  text-align: center;
+}
+.dctr-ldr .dc-optns:first-child span{
+display: none;
+}
+.dctr-ldr  .dc-optns {
+  padding-right:0;
+}
+ /* -----user dashboard page--------- */
+/* ----shreyasi(17.8.22)--------- */
+.dshbrd-frm {
+  margin-top: 39px;
+}
+.hlth-dtl .resp-tabs-list .resp-tab-item:first-child {
+  margin-top: 15px;
+}
+}
+
+@media (max-width: 1024px) {
+  /* ----------shreyasi(9.7.22)--------------- */
+
+  .human-img::after {
+    width: 219px;
+    height: 358px;
+    right: -30px;
+  }
+
+  .humn-prb::after {
+    width: 402.2px;
+    height: 365.92px;
+    right: 1px;
+  }
+
+  .get-txt {
+    padding: 35px 40px;
+  }
+
+  .get-img::after {
+    width: 320.25px;
+    height: 268.62px;
+  }
+
+  .client::after {
+    width: 473.36px;
+    height: 478.25px;
+  }
+
+  .client-img {
+    width: 56%;
+  }
+
+  .cmnty-info {
+    width: 57%;
+  }
+
+  .cmnty-btn .cmn_btn {
+    padding: 15px 122px;
+  }
+
+  .first-ftr .cmn_hdr p {
+    width: 319px;
+  }
+
+  .dot-dtls7 {
+    right: 14%;
+  }
+
+  .dot-dtls5 {
+    left: 23%;
+  }
+
+  .inr-box5 {
+    right: -17px;
+  }
+
+  .inr-box7 {
+    left: -30px;
+    top: 26px;
+  }
+
+  .inr-box0 {
+    top: 11px;
+    left: -8px;
+  }
+
+  /* ---medical expert page---- */
+  .mdcl-exprt-bnr .bnr_content h2 {
+    padding-bottom: 5px;
+
+  }
+
+  .mdcl-exprt-bnr .bnr-form {
+    padding-top: 6px;
+  }
+
+  .how-wrk-knwlg .count-img {
+    width: auto;
+    margin: auto;
+  }
+
+  .hlth-advc .row:nth-child(2) .mdcl-team-img {
+
+    width: 293px;
+
+  }
+
+  .hlth-advc .human-img::after {
+    width: 303px;
+    height: 362px;
+    left: -59%;
+  }
+
+  .hlth-advc .cmn_hdr h3 {
+    padding-bottom: 12px;
+  }
+
+  .hlth-advc-form .form-cntct .form-control {
+    padding: 0 10px 0 9px;
+    width: 391px;
+  }
+
+  .custom-file-label {
+    font-size: 14px;
+  }
+
+  .cmnty-form .form-cntct .form-control {
+    width: 491px;
+  }
+
+  /* Ankur 05.08.2022 */
+
+  /* Form Sec*/
+
+  .ttl_form_otr .frm_otr {
+
+    width: 585px;
+    height: 545px;
+  }
+
+  .ttl_form_otr input:first-child {
+
+    margin-top: 18px;
+  }
+
+  .ttl_form_otr h2 {
+
+    padding-top: 30px;
+  }
+
+  .ttl_form_otr input {
+
+    margin-bottom: 20px;
+    width: 450px;
+    padding: 16px 0;
+    padding-left: 70px;
+  }
+
+  .ttl_form_otr {
+
+    height: auto;
+  }
+
+  .ttl_form_otr .cmn_btn {
+
+    margin-top: 12px;
+  }
+      /* ------shreyasi(8.7.22)-------------- */
+/* ---doc profile---- */
+.dc_prfl_btn .cmn_btn {
+  width: 245px;
+}
+.shr_para:first-child {
+  padding-right: 20px;
+}
+.ofc_info h5 {
+  font-size: 18px;
+}
+.dc-prfl-img .level, .dc-prfl-img .rating, .dc-prfl-img .votes {
+  padding-top: 20px;
+  padding-bottom: 12px;
+}
+.dc-prfl-img .votes {
+  padding: 20px 10px;
+}
+.dc-prfl-img .cmn_hdr_wht p {
+  padding: 0 10px;
+  font-size: 13px;
+}
+.dc-prfl-prt .accordion {
+  font-size: 14.5px;
+}
+.optn-prt-txt h5 {
+ 
+  font-size: 13.5px;
+}
+/* ---payment page----- */
+.srch::after {
+  left: 35%;
+}
+/* ---single question page------ */
+/* ----shreyasi(16.8.22)--------- */
+.caps-icn {
+  width: 100%;
+}
+.dctr-pst::after {
+  width: 102px;
+}
+.dctr-pst {
+  width: 23%;
+}
+/* ---create health profile---- */
+/* --shreyasi-- */
+.hlth-prfl .resp-tabs-container {
+  padding: 15px 10px 30px 10px;
+}
+.hlth-prfl .resp-tabs-list {
+  width: 35%;
+}
+.hlth-prfl .resp-tabs-container {
+  width: 65%;
+}
+.hlth-prfl .resp-tab-active {
+  padding: 0px 14px 0 14px !important;
+}
+.hlth-prfl .resp-tab-item {
+  padding: 0px 14px 0 14px !important;
+}
+.hlth-dtl .resp-tabs-list .resp-tab-item:first-child {
+  margin-top: 17px;
+}
+}
+
+@media (max-width: 991px) {
+
+  /* ----------shreyasi(9.7.22)--------------- */
+  /* --header---- */
+  .logo_area {
+    width: 100.87px;
+  }
+
+  ul.navbar-nav li a {
+    font-size: 14px;
+  }
+
+  .cmn_btn {
+    font-size: 14px;
+  }
+
+  .navbar-nav li {
+    padding-right: 43px;
+  }
+
+  /* ----banner---- */
+  .bnr_content h1 {
+    font-size: 27.25px;
+    width: 470px;
+  }
+
+  .bnr-form .form-cntct .form-control {
+    width: 392px;
+    height: 49px;
+    /* padding: 0 102px 0 10px; */
+  }
+
+  .bnr-form .cmn_btn {
+    padding: 12px 21px 15px;
+  }
+
+  /* ---count-sec--- */
+  /* .count-img{
+        width: 50px;
+        margin: auto;
+    }
+    .count-text {
+        padding-top: 18px;
+      }
+      .count-text .cmn_hdr h3{
+        padding-bottom: 6px;
+      } */
+  /* ---common form font----- */
+  .form-cntct .form-control::-webkit-input-placeholder {
+    font-size: 14px;
+  }
+
+  .form-cntct .form-control::-moz-placeholder {
+    font-size: 14px;
+  }
+
+  .form-cntct .form-control:-ms-input-placeholder {
+    font-size: 14px;
+  }
+
+  .form-cntct .form-control::-ms-input-placeholder {
+    font-size: 14px;
+  }
+
+  /* ----common sec----- */
+  .cmn_hdr h2 {
+    font-size: 24.02px;
+  }
+
+  .cmn_hdr h3 {
+    font-size: 17.25px;
+  }
+
+  .cmn_hdr h4 {
+    font-size: 15.20px;
+  }
+
+  .cmn_hdr p {
+    font-size: 14px;
+  }
+
+  .cmn_pdding {
+    padding: 39.48px 0;
+  }
+
+  a {
+    font-size: 14px;
+  }
+
+  /* ---feature sec--- */
+  /* .ftr-img {
+        width: 18%;
+        padding: 23px 16px;
+      }
+      .feature-part{
+        padding-top: 22px;
+      } */
+  /* ---post sec---- */
+  .post-pagination {
+    margin-top: 243px;
+  }
+
+  .post-txt {
+    top: 175px;
+  }
+
+  .post-txt .cmn_hdr h4 {
+    width: 255px;
+  }
+
+  .swiper-pagination-bullet {
+    width: 13px;
+    height: 13px;
+  }
+
+  .swiper-pagination-bullet-active {
+    width: 17px;
+    height: 17px;
+  }
+
+  /* ---human problem sec---- */
+  .human-txt {
+    padding-left: 10px;
+  }
+
+  .human-txt .cmn_hdr p {
+    width: 534px;
+  }
+
+  .human-img::after {
+    width: 226px;
+    height: 352px;
+    right: -41px;
+  }
+
+  .dot-dtls {
+    width: 14px;
+    height: 14px;
+  }
+
+  .humn-prb::after {
+    width: 376.87px;
+    height: 316.25px;
+  }
+
+  .human-form .form-cntct .form-control {
+    width: 370px;
+    height: 50px;
+  }
+
+  .dot-dtls8 {
+    left: 37%;
+  }
+
+  /* .dot-dtls6 {
+        right: 19%;
+        top: 67%;
+      } */
+  /* .dot-dtls1 {
+        top: 58px;
+      } */
+  .dot-dtls7 {
+    right: 13%;
+  }
+
+  /* .dot-dtls3 {
+        right: 13%;
+        top: 90px;
+      } */
+  .human-form .cmn_btn {
+    margin-top: 22px;
+    height: 47px;
+  }
+
+  /* ---get sec---- */
+  .get-img-txt h3 {
+    font-size: 28.08px;
+  }
+
+  .get-img {
+    padding: 65px 0;
+  }
+
+  /* ---client sec---- */
+  .client::after {
+    width: 426.36px;
+    height: 420.25px;
+  }
+
+  /* ---community sec----- */
+  .cmnty-form .form-cntct .form-control {
+    width: 496px;
+  }
+
+  /* ---footer sec---- */
+  /* .first-ftr .logo_area {
+        padding-bottom: 15px;
+      } */
+  .ftr-list {
+    padding-top: 11.18px;
+  }
+
+  .frth-ftr .ftr-list ul li {
+    padding-bottom: 16px;
+  }
+
+  /* .ftr-bttm {
+        padding: 17px 0;
+      } */
+  .top-ftr::after {
+    width: 242.68px;
+    height: 220px;
+  }
+
+  /* .ftr-uppr {
+        padding: 25px 0 ;
+      }  */
+  .ftr-list ul li a {
+    font-size: 14px;
+  }
+
+  .ftr-btm-details .cmn_hdr a {
+    font-size: 14px;
+  }
+
+  /* .ftr-list ul li .fa{
+        width: 21.12px;
+        height: 21.12px;
+        font-size: 13px;
+      } */
+  /* .ftr-list ul li {
+        padding-bottom: 14px;
+      }
+      .frth-ftr .ftr-list ul li {
+        padding-bottom: 14px;
+      } */
+  .first-ftr .cmn_hdr p {
+    width: 298px;
+  }
+
+  .cmn_footer .logo_area {
+    width: 115.87px;
+  }
+
+  .cmn_btn {
+    padding: 12px 21px;
+  }
+
+  /* ---medical expert page----- */
+  .mdcl-exprt-bnr .bnr-form .form-cntct .form-control {
+    width: 365px;
+  }
+
+  .mdcl-exprt-bnr .bnr-form .form-cntct {
+
+    width: 67%;
+  }
+
+  .mdcl-no h2 {
+    font-size: 62px;
+  }
+
+  .mdcl-no {
+    margin-bottom: -37px;
+  }
+
+  /* --how it works page---------- */
+  .hlth-advc-form .form-cntct .form-control {
+    padding: 0 10px 0 9px;
+    width: 391px;
+  }
+
+  .hlth-advc .human-img::after {
+    width: 303px;
+    height: 352px;
+
+  }
+
+  .custom-file-label {
+    height: 48px;
+    padding: 12px 30px 0 12px;
+  }
+
+  .custom-file-input:lang(en)~.custom-file-label::after {
+    width: 47.13px;
+    height: 47.13px;
+  }
+
+  .hlth-advc .row:nth-child(2) .hlth-advc-form .cmn_btn {
+    margin-top: 33px;
+  }
+
+  .how-wrk-bnr .bnr_pic {
+    padding: 80px 0;
+  }
+
+  .hlth-advc .mdcl-team-dtl .row:nth-child(1) {
+    padding-top: 15px;
+  }
+
+  /* sandip-12-07 */
+
+  .mt-ppl {
+    margin-top: 85px;
+  }
+
+  .val-sec .count-img {
+    min-height: 60px;
+  }
+
+  /* Ankur 05.08.2022 */
+
+  /* Form Sec*/
+
+  .ttl_form_otr .frm_otr {
+
+    width: 585px;
+    height: 512px;
+  }
+
+  .ttl_form_otr input:first-child {
+
+    margin-top: 18px;
+  }
+
+  .ttl_form_otr h2 {
+
+    padding-top: 30px;
+  }
+
+  .ttl_form_otr input {
+
+    margin-bottom: 20px;
+    width: 350px;
+    padding: 13px 0;
+    padding-left: 60px;
+  }
+
+  .ttl_form_otr input::placeholder {
+
+    font-size: 13px;
+  }
+
+  .ttl_form_otr {
+
+    height: auto;
+  }
+
+  .ttl_form_otr .cmn_btn {
+
+    margin-top: 12px;
+  }
+
+  .ttl_form_otr .text {
+
+
+
+    background-size: 17px 21px;
+
+
+
+  }
+
+  .ttl_form_otr .email {
+
+    background-size: 21px 16px;
+
+  }
+
+  .ttl_form_otr .passwrd {
+
+    background-size: 20px 20px;
+
+  }
+
+  .ttl_form_otr .re_pswrd {
+
+    background-size: 23px 15px;
+
+  }
+        /* ------shreyasi(8.7.22)-------------- */
+/* ---doc profile---- */
+.optn-lgo {
+  min-width: 563px;
+}
+.optn-prt {
+  min-width: 430px;
+}
+.dc-prfl-prt .accordion {
+  padding: 15px;
+}
+.dc-prfl-img .dc-prfl-img-brdr-inr {
+  width: 140.75px;
+  height: 140.75px;
+}
+.dc-prfl-img .dc-prfl-main-img img {
+  width: 132.25px;
+  height: 132.25px;
+}
+.dc_prfl_btn .cmn_btn {
+  width: 221px;
+
+}
+.optn-prt-txt h5 {
+  font-size: 13px;
+}
+.trt-dtl h3 {
+  padding-bottom: 8px;
+  font-size: 14px;
+}
+.dc-prfl-prt .panel {
+
+  font-size: 13px;
+}
+.main_para {
+  width: 79%;
+
+}
+.answr-info-dtl .trt-dtl h3:first-child span {
+  width: 15px;
+  height: 15px;
+}
+.ofc_info .addrs_info p {
+  font-size: 13px;
+}
+.answr-more a {
+  font-size: 14px;
+}
+/* ---payment page---- */
+.srch::after {
+  width: 15px;
+  height: 14px;
+}
+/* ---single question page----- */
+.qstn-form.pymnt-form .form-cntct label {
+  margin-bottom: 15px;
+}
+.qstn.user .optn-prt-txt h5 {
+  padding: 3px 0 8px;
+}
+/* ---single question page------ */
+/* ----shreyasi(16.8.22)--------- */
+.dctr-pst {
+  width: 24%;
+}
+.dctr-pst::after {
+  width: 103px;
+}
+.qst-otr .caps-icn .cmnty-btn .cmn_btn {
+  padding: 10px 19px;
+}
+
+.swiper-button-next-sl {
+  width: 31px;
+  height: 31px;
+}
+.swiper-button-prev-sl {
+  width: 31px;
+  height: 31px;
+}
+.mdvc-dcs .qstn-form.pymnt-form input[type="submit"] {
+  width: 45%;
+
+}
+.mdvc-dcs .ptnt-trt:nth-child(2) .cmn_hdr:nth-child(2) {
+  display: block;
+  
+}
+}
+@media (max-width: 900px) {
+
+  .get-img {
+    padding: 91px 0;
+  }
+
+  .bnr-form .form-cntct .form-control {
+    height: 48px;
+  }
+
+  .dot-dtls7 {
+    right: 10%;
+    top: 53%;
+  }
+
+  .dot-dtls5 {
+    left: 19%;
+  }
+
+  .dot-dtls3 {
+    right: 32%;
+  }
+
+  .human-img::after {
+    width: 212px;
+
+  }
+
+  .dot-dtls6 {
+    right: 37%;
+  }
+
+}
+
+@media (max-width: 812px) {
+  .cmunty-dtl-prt a {
+    width: 64%;
+  }
+
+  .dot-dtls7 {
+    right: 4%;
+
+  }
+
+  .dot-dtls5 {
+    left: 16%;
+  }
+
+  .dot-dtls8 {
+    left: 35%;
+  }
+
+  .dot-dtls6 {
+    right: 35%;
+  }
+
+  .human-img::after {
+    width: 200px;
+  }
+
+  .hlth-advc-form .form-cntct .form-control {
+    width: 299px;
+  }
+
+  .custom-file-label {
+    width: 249px;
+  }
+
+  .hlth-advc .human-img::after {
+    width: 275px;
+    height: 361px;
+    left: -48%;
+  }
+
+  .hlth-advc .human-img .dot-dtls3 {
+    top: 123px;
+  }
+
+  .human-txt .cmn_hdr p {
+    width: 431px;
+  }
+
+}
+
+@media (max-width: 768px) {
+  .navbar-nav li {
+    padding-right: 35px;
+  }
+
+  .cmn_hdr h3 {
+    font-size: 15.25px;
+  }
+
+  .first-ftr .cmn_hdr p {
+    width: 243px;
+  }
+
+  /* -----medical expert page----- */
+  .mdcl-exprt-bnr .bnr_pic {
+    height: 100%;
+  }
+
+  .mdcl-exprt-bnr .banner_sec .bnr_pic img {
+    height: 100%;
+  }
+
+  .mdcl-exprt-bnr.banner_sec .bnr_pic img {
+    height: 250px;
+  }
+
+  .hlth-advc .human-img .inr-box5 {
+    right: auto;
+    top: 28px;
+    left: -133px;
+  }
+
+  /* .human-txt .cmn_hdr p {
+  width: 431px;
+} */
+  .cmnty-prt .cmn_hdr p {
+    width: 698px;
+
+  }
+
+  .human-txt .cmn_hdr p {
+    width: 400px;
+  }
+
+  .cmnty-form .form-cntct .form-control {
+    width: 479px;
+  }
+
+  .human-img::after {
+    width: 191px;
+  }
+  .mdvc-optn {
+    padding: 15px 7px;
+  }
+  .optn-lgo {
+    min-width: 546px;
+  }
+  /* ---single question page------ */
+/* ----shreyasi(16.8.22)--------- */
+.dctr-pst::after {
+  width: 101px;
+  height: 35px;
+}
+.dctr-pst {
+  width: 32%;
+  height: 86px;
+}
+.caps-icn {
+  width: 83%;
+}
+.mdvc-dcs .pymnt-form {
+  padding-top: 0px;
+}
+.mdvc-dcs.crt-qstn .fullheight .form-control {
+  height: 108px !important;
+
+}
+/* ---create health profile---- */
+/* --shreyasi-- */
+.hlth-prfl .resp-tabs-container {
+  width: 100%;
+}
+.hlth-prfl .trt-dtl:nth-child(2) {
+  border-top: none;
+  border-bottom: none;
+ 
+}
+.hlth-dtl .resp-tab-content {
+  padding: 15px 10px;
+}
+.hlth-dtl .resp-tab-content-active {
+  padding: 15px 10px;
+}
+.hlth-prfl .answr-info-dtl {
+  margin: 8px 0 0px;
+  width: 100%;
+
+}
+.hlth-prfl .hlth-info-prfl.trt-dtl h3 {
+  padding: 15px 0 15px 20px;
+}
+.hlth-prfl .trt-dtl h3 {
+  padding: 15px 0 15px 0px;
+}
+.hlth-prfl .resp-arrow {
+
+  margin-top: 19px;
+
+}
+.add-form input:first-child{
+  margin-bottom: 15px;
+}
+}
+
+@media (max-width: 767px) {
+  .navbar-nav {
+    background: #6ca3d9;
+    ;
+    padding: 10px 0;
+    text-align: center;
+  }
+
+  .navbar-nav li {
+    padding: 0px 0px;
+  }
+
+  .navbar-nav li a {
+    font-size: 14px;
+    padding: 10px 0px;
+    -webkit-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+  }
+
+  ul.navbar-nav li a:hover:focus,
+  ul.navbar-nav li a:hover:hover {
+    background: transparent;
+    color: #2a2a2a !important;
+  }
+
+  .navbar {
+    position: static;
+  }
+
+  .navbar .navbar-toggler {
+    position: absolute;
+    right: 30px;
+    border: none;
+    outline: none;
+    padding: 4px;
+    border-radius: 0;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    /* background: #fff; */
+    border-radius: 50%;
+  }
+
+  .navbar .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(108, 163, 217, 7)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  }
+
+  .navbar-light .navbar-toggler-icon:active,
+  .navbar-light .navbar-toggler-icon:focus {
+    outline: 0;
+  }
+
+  .collapse:not(.show) {
+    display: none;
+  }
+
+  .navbar-collapse {
+    position: absolute;
+    z-index: 999999;
+    left: 0;
+    right: 0;
+    top: 0;
+    margin: 77px auto auto auto;
+    width: 100%;
+  }
+
+  /* ---shreyasi(11.7.22)--- */
+  .hdr-btn {
+    margin-right: 62px;
+  }
+
+  ul.navbar-nav li.current-menu-item a {
+    color: #fff !important;
+  }
+
+  ul.navbar-nav li a {
+    color: #fff !important;
+  }
+
+  .bnr_content h1 {
+    font-size: 23.25px;
+    width: 343px;
+  }
+
+  .bnr-form .form-cntct .form-control {
+    width: 330px;
+    padding: 0 1px 0 6px;
+  }
+
+  .bnr-form .cmn_btn {
+    padding: 12px 16px 15px;
+    right: -89px;
+  }
+
+  .bnr-form .cmn_btn {
+    padding: 12px 9px 15px;
+  }
+
+  /* ---common form font----- */
+  .form-cntct .form-control::-webkit-input-placeholder {
+    font-size: 13px;
+  }
+
+  .form-cntct .form-control::-moz-placeholder {
+    font-size: 13px;
+  }
+
+  .form-cntct .form-control:-ms-input-placeholder {
+    font-size: 13px;
+  }
+
+  .form-cntct .form-control::-ms-input-placeholder {
+    font-size: 13px;
+  }
+
+  /* ----common sec----- */
+  .cmn_hdr h2 {
+    font-size: 21.02px;
+  }
+
+  .cmn_hdr h3 {
+    font-size: 16.25px;
+  }
+
+  .cmn_hdr h4 {
+    font-size: 14.70px;
+  }
+
+  .cmn_hdr p {
+    font-size: 13px;
+  }
+
+  .cmn_pdding {
+    padding: 34.48px 0;
+  }
+
+  a {
+    font-size: 13px;
+  }
+
+  .cmn_btn {
+    font-size: 13px;
+  }
+
+  .count-part {
+    padding-top: 30px;
+  }
+
+  .feature-part {
+    display: block;
+  }
+
+  .ftr-img {
+    width: 40%;
+    margin: auto;
+    margin-top: 30px;
+  }
+
+  .ftr-img:first-child {
+    margin-top: 0;
+  }
+
+  .cmn_hdr h2 {
+    padding-bottom: 5px;
+  }
+
+  .post-txt-dtl .cmn_hdr p {
+    width: auto;
+    min-height: auto;
+  }
+
+  .human-img::after {
+    display: none;
+  }
+
+  .humn-prb::after {
+    left: 0;
+    right: 0;
+    margin: auto;
+    z-index: 0;
+    top: 0;
+    bottom: 0;
+  }
+
+  .human-img {
+    z-index: 99;
+  }
+
+  .dot-dtls0 {
+    left: 49%;
+  }
+
+  .dot-dtls3 {
+    right: 41%;
+  }
+
+  .dot-dtls5 {
+    left: 35%;
+  }
+
+  .dot-dtls7 {
+    right: 31%;
+  }
+
+  .dot-dtls6 {
+    right: 44%;
+  }
+
+  .dot-dtls8 {
+    left: 44%;
+
+  }
+
+  .dot-dtls0 {
+    left: 49%;
+  }
+
+  .inr-box8 {
+    right: -19px;
+  }
+
+  .inr-box3 {
+    left: -13px;
+
+  }
+
+
+  .dot-dtls4 {
+    top: 48%;
+    transform: translateY(-50%);
+  }
+
+  .human-txt {
+    padding-top: 30px;
+    padding-left: 0;
+    text-align: center;
+  }
+
+  .human-txt .cmn_hdr p {
+    width: auto;
+  }
+
+  .human-form .form-cntct .form-control {
+    margin: auto;
+  }
+
+  .get-part {
+    display: block;
+  }
+
+  .get-img {
+    width: 100%;
+    margin: auto;
+  }
+
+  .get-txt {
+    width: 100%;
+    margin: auto;
+  }
+
+  .cmnty-prt .cmn_hdr p {
+    padding: 0;
+    width: 100%;
+    margin: auto;
+    padding-bottom: 20px;
+  }
+
+  .cmnty-form .cmn_btn {
+    right: -24px;
+  }
+
+  .cmunty-dtl-prt a {
+    width: 100%;
+  }
+
+  .cmnty-btn {
+    margin-bottom: 20px;
+  }
+
+  .first-ftr .logo_area {
+    left: 0;
+    right: 0;
+    margin: auto;
+  }
+
+  .first-ftr .cmn_hdr p {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+  }
+
+  .first-ftr .logo_area {
+    padding-bottom: 0;
+  }
+
+  .cmn_footr {
+    text-align: center;
+  }
+
+  .frth-ftr .ftr-list ul li a {
+    justify-content: center;
+  }
+
+  .top-ftr::after {
+    left: 0;
+    right: 0;
+    margin: auto;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .ftr-gap {
+    padding-top: 15px;
+  }
+
+  /* .clnt-sld-dtl{
+  display: block;
+
+}
+.clnt-txt {
+  width: 100%;
+  margin: auto;
+
+
+}
+.client-img {
+  width: 100%;
+  margin: auto;
+
+  text-align: center;
+
+}
+.client::after {
+  left: 0;
+  right: 0;
+  margin: auto;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 646px;
+  height: 542px;
+}
+.client {
+  padding-bottom: 35px;
+}
+.clnt-sldr {
+  padding-bottom: 0;
+  padding-top: 20px;
+  margin: auto;
+  left: 0;
+  right: 0;
+  top: 0;
+}
+.clnt-pgntn{
+  top: 100px;
+  bottom: 0;
+
+  justify-content: center;
+  left: 0;
+right: 0;
+margin: auto;
+}
+.clnt-grp{
+  display: grid;
+}
+.clnt-sldr{
+  order: 1;
+}
+.clnt-sld{
+  order: 2;
+} */
+
+  .clnt-sldr {
+    position: absolute;
+    top: 21%;
+    width: 25%;
+    overflow: hidden;
+    padding-bottom: 134px;
+    margin: auto;
+    left: 0;
+    right: 0;
+    bottom: auto;
+  }
+
+  .clnt-pgntn {
+    padding-top: 0;
+    position: absolute;
+    top: 28%;
+    display: flex;
+    left: 0;
+    right: 0;
+    justify-content: center;
+  }
+
+  .clnt-sld-dtl {
+    display: block;
+  }
+
+  .clnt-txt {
+    width: 100%;
+  }
+
+  .client-img {
+    width: 100%;
+    margin-top: 167px;
+  }
+
+  .client::after {
+    top: 52%;
+    right: 31px;
+    transform: translateY(-50%);
+  }
+
+  .client {
+    padding-top: 50px;
+  }
+
+  .bnr_content h1 {
+    padding-bottom: 26px;
+  }
+
+  .logo_area {
+    width: 86.87px;
+  }
+
+  /* ----medical expert page---- */
+  .mdcl-exprt .mt-40 {
+    margin-top: 20px;
+  }
+
+  .mdcl-team-dtl .row {
+    margin-top: 30px;
+    padding-top: 0;
+  }
+
+  .mdcl-team-img {
+    width: 70%;
+    margin: auto;
+  }
+
+  .mdvc-join-txt .cmn_hdr h2 {
+    padding-bottom: 10px;
+  }
+
+  .mdvc-join-img {
+    width: 70%;
+    margin: auto;
+
+    margin-top: 30px;
+  }
+
+  .mdcl-tstmnl-txt::after {
+    width: 77.75px;
+    height: 54.15px;
+  }
+
+  .mdcl-exprt-bnr .bnr_content h2 {
+    padding-bottom: 15px;
+  }
+
+  .mdcl-exprt-bnr .bnr-form .form-cntct .form-control {
+    width: 343px;
+  }
+
+  .mdcl-exprt-bnr .bnr-form .form-cntct {
+    width: 63%;
+  }
+
+  .count-img {
+    width: auto;
+
+  }
+
+  .count-text .cmn_hdr h3 {
+    padding-bottom: 2px;
+  }
+
+  .count-part {
+    padding-top: 15px;
+  }
+
+  .custom-file-label {
+    font-size: 13px;
+  }
+
+  /* -----------how it works page----- */
+  .hlth-advc-form .form-cntct .form-control {
+    width: 65%;
+  }
+
+  .custom-file-label {
+    width: 367px;
+  }
+
+  .hlth-advc .mdcl-team-dtl .row {
+    margin-top: 0px;
+    padding-top: 0;
+  }
+
+  .how-wrk-bnr .bnr_pic {
+    padding: 67px 0;
+  }
+
+  .how-wrk-knwlg .row {
+    margin-top: 10px;
+  }
+
+  .hlth-advc .mdcl-team-dtl .row:nth-child(4) {
+    margin-top: 40px;
+
+  }
+
+  .hlth-advc .mdcl-team-txt {
+    padding-top: 20px;
+  }
+
+  .custom-file-label {
+    width: 327px;
+  }
+
+  .hlth-advc-form .cmn_btn {
+    right: 0;
+  }
+
+  .how-wrk-knwlg.count.cmn_pdding {
+    padding: 34.48px 0;
+  }
+
+  /* sandip-12-07 */
+
+  .col-md-6:first-child .ppl-inr {
+    margin-bottom: 100px;
+  }
+
+  .val-sec .count-img {
+    min-height: auto;
+  }
+   /* ------shreyasi(8.7.22)-------------- */
+/* ---doc profile---- */
+.mdvc-optn {
+  padding: 15px 5px;
+}
+.optn-lgo {
+  min-width: auto;
+}
+.optn-prt {
+  min-width: auto;
+  padding-left: 15px;
+}
+.crtr-prfl-anchr a {
+  font-size: 13px;
+}
+.crtr-prfl-anchr a {
+  padding-right: 11px;
+}
+.crtr-prfl-txt.cmn_hdr p {
+  padding-bottom: 1px;
+}
+.dc-prfl-dtl.mdvc-optn {
+  padding: 10px 0;
+}
+.main_para {
+  width: auto;
+}
+.rating{
+  width: 33.33%;
+}
+.votes{
+  width: 33.33%;
+}
+.level{
+  width: 33.33%;
+}
+.optn-prt-dtl{
+  padding-right: 10px;
+}
+.ofc_info h5 {
+  font-size: 17px;
+}
+.shr_para{
+  width: 50%;
+  padding-left: 20px;
+}
+.shr_para:last-child {
+  padding-left: 20px;
+
+}
+.dc_prfl_btn .cmn_btn {
+  width: 50%;
+  margin: 20px auto;
+
+}
+.cmpr-rtng {
+  width: 63%;
+
+}
+.cmpre-prt-txt .mt-20{
+  margin-top: 10px;
+}
+.dc-prfl-acrdn-dtl{
+  padding-top: 30px;
+}
+/* ---prnt-exprt-page----- */
+.ptnt-exprt {
+  margin-top: 0;
+}
+.ptnt-exprt .resp-accordion h3{
+  font-size: 16px;
+  padding: 10px;
+}
+.ptnt-exprt .resp-arrow {
+
+  margin-top: 11px;
+
+  margin-right: 8px;
+}
+/* ----payment page----- */
+.user .answr-info-dtl {
+  width: 100%;
+}
+.srch::after {
+  left: 40%;
+}
+.pymnt-form .form-cntct .form-control {
+  padding: 0 30px 0 10px;
+  height: 40px !important;
+}
+.user .trt-dtl h3 {
+  font-size: 17px;
+}
+.crt-qstn .fullheight .form-control{
+  height: 110px !important;
+}
+.qstn .cmn_hdr h4 {
+  padding-bottom: 16px;
+}
+  /* ---single question page------ */
+/* ----shreyasi(16.8.22)--------- */
+.dctr-prgrs {
+  display: flex;
+  margin: 13px 0 9px;
+}
+.dctr-pst::after {
+  width: 98px;
+
+}
+.dctr-pst {
+  width: 14%;
+
+}
+.caps-icn {
+  width: 100%;
+}
+.ntfctn-prt {
+justify-content: flex-start;
+  margin: 23px 0;
+}
+.ntfctn-icn {
+
+  margin-left: 20px;
+}
+.mdvc-dcs .dc-prfl-info-dtl:first-child {
+  padding-top: 15px;
+}
+.qst-trt {
+  padding-top: 17px;
+}
+ /* -----user dashboard page--------- */
+/* ----shreyasi(17.8.22)--------- */
+.dshbrd-dtl .qst-inr {
+  padding: 33px 0 20px;
+}
+.dshbrd-dtl .trt-dtl h3 {
+  padding-right: 0;
+}
+.dshbrd-dtl .qst-chck p{
+  margin-left: 10px;
+}
+.dshbrd-dtl .dc-prfl-info-dtl:first-child {
+  padding-top: 0;
+  margin-top: 0;
+}
+.dshbrd-dtl .dc-prfl-info-dtl:nth-child(3) .qstn-img{
+  margin-right: 10px;
+}
+.dshbrd-dtl .qst-inr {
+  padding: 16px 0 20px;
+}
+.dshbrd-dtl .dc-prfl-info-dtl:first-child .qst-inr{
+  padding: 42px 0 20px;
+}
+}
+
+@media (max-width: 667px) {
+  .bnr-form .cmn_btn {
+    padding: 12px 16px 15px;
+    right: -25px;
+    height: 41px;
+    padding: 10px 16px 12px;
+  }
+
+  .bnr-form .form-cntct .form-control {
+    width: 267px;
+    height: 42px;
+  }
+
+  /* ----medical expert page---- */
+  .mdcl-tstmnl-txt .cmn_hdr h3 {
+    padding-bottom: 15px;
+  }
+
+  .mdcl-tstmnl-part-dtl {
+
+    padding-right: 9px;
+  }
+
+  .mdcl-no h2 {
+    font-size: 54px;
+  }
+
+  .mdcl-no {
+    margin-bottom: -32px;
+  }
+
+  .mdcl-exprt-bnr .bnr-form .cmn_btn {
+    padding: 11px;
+  }
+
+  .bnr-form .form-cntct .form-control {
+    width: 265px;
+  }
+     /* ------shreyasi(8.7.22)-------------- */
+/* ---doc profile---- */
+.optn-dtl .optn-prt-txt h5{
+  display: none;
+}
+.optn-dtl .optn-prt-img{
+  padding-right: 20px;
+}
+.dc-prfl-img .dc-prfl-img-brdr-inr {
+  width: 128.75px;
+  height: 128.75px;
+}
+.dc-prfl-img .dc-prfl-main-img img {
+  width: 118.25px;
+  height: 118.25px;
+}
+/* ----payment page--- */
+.srch::after {
+  left: 39%;
+}
+.user.cmn_pdding {
+  padding: 20.48px 0;
+}
+.user .answr-info-dtl {
+
+  padding: 0 15px;
+}
+.qstn.user .answr-info-dtl {
+  padding: 15px;
+}
+  /* ---single question page------ */
+/* ----shreyasi(16.8.22)--------- */
+.caps-icn {
+  width: 74%;
+}
+.dctr-pst::after {
+  width: 97px;
+}
+.dctr-pst {
+  width: 16%;
+}
+}
+
+@media (max-width: 600px) {
+
+  .ttl_form_otr .frm_otr {
+    width: 100%;
+    
+}
+}
+
+@media (max-width: 575px) {
+  .bnr_content h1 {
+    font-size: 18.25px;
+    width: 265px;
+  }
+
+  .bnr-form .cmn_btn {
+    right: -80px;
+  }
+
+  .count.cmn_pdding {
+    padding: 10px 0;
+  }
+
+  .post-pagination {
+    margin-top: 129px;
+  }
+
+  .ftr-img {
+    width: 50%;
+  }
+
+  .post-txt .cmn_hdr h4 {
+    width: auto;
+    min-height: auto;
+  }
+
+  .post-txt-dtl.cmn_hdr p {
+    width: auto;
+    min-height: auto;
+  }
+
+  .post-txt-info .cmn_hdr p {
+    padding-bottom: 0;
+  }
+
+  .post-txt-dtl {
+    padding-top: 0;
+  }
+
+  .post-more {
+    padding-top: 12px;
+  }
+
+  .post-txt {
+    top: auto;
+    bottom: -75px;
+  }
+
+  .dot-dtls5 {
+    left: 30%;
+  }
+
+  .dot-dtls7 {
+    right: 24%;
+  }
+
+  .dot-dtls6 {
+    right: 42%;
+  }
+
+  .dot-dtls8 {
+    left: 42%;
+  }
+
+  .dot-dtls3 {
+    right: 38%;
+  }
+
+  .get-img {
+    padding: 77px 0;
+  }
+
+  .cmn_hdr h2 {
+    font-size: 19.02px;
+  }
+
+  .get-img-txt h3 {
+    font-size: 23.08px;
+  }
+
+  .cmn_btn {
+    padding: 10px 12px;
+  }
+
+  .logo_area {
+    width: 76.87px;
+  }
+
+  /* ---medical expert page----- */
+  .mdcl-exprt-bnr .bnr-form .form-cntct .form-control {
+    width: 322px;
+  }
+
+  .mdcl-exprt-bnr .bnr-form .form-cntct {
+    width: 60%;
+  }
+
+  .mdcl-exprt-bnr .bnr-form .cmn_btn {
+    text-align: center;
+    padding: 8px;
+  }
+
+  .navbar-collapse {
+
+    margin: 71px auto auto auto;
+
+  }
+
+  /* sandip-12-07 */
+
+  .val-sec.cmn_pdding {
+    padding: 35px 0;
+  }
+
+  .ppl-icn a {
+    color: #fff;
+    height: 25px;
+    width: 25px;
+  }
+       /* ------shreyasi(8.7.22)-------------- */
+/* ---doc profile---- */
+.mdvc-optn {
+  padding: 11px 5px;
+}
+.dc-prfl-img {
+  margin-top: 16px;
+}
+.dc-prfl-info.dc-prfl-acrdn {
+  padding-top: 5px;
+}
+.answr-more a {
+  font-size: 13px;
+}
+.cmpre-prt-txt {
+  padding: 12px 0;
+}
+/* ----payment page--- */
+.srch::after {
+  left: 37%;
+}
+.pymnt-form {
+  padding-top: 10px;
+}
+.pymnt-img {
+  padding-right: 28px;
+}
+.user .optn-prt-txt h5 {
+  padding: 10px 0;
+}
+  /* ---single question page------ */
+/* ----shreyasi(16.8.22)--------- */
+.ntfctn-prt {
+  margin: 13px 0;
+}
+.dctr-pst {
+  width: 19%;
+}
+.caps-icn {
+  width: 91%;
+}
+.dshbrd-dtl .dc-prfl-info-dtl:first-child {
+  padding-top: 0;
+  margin-top: 0;
+}
+.dshbrd-dtl .dc-prfl-info-dtl:nth-child(3) .qstn-img{
+  margin-right: 10px;
+}
+.dshbrd-dtl .qst-inr {
+  padding: 16px 0 20px;
+}
+.dshbrd-dtl .dc-prfl-info-dtl:first-child .qst-inr{
+  padding: 42px 0 20px;
+}
+.hlth-prfl .trt-dtl h3 {
+  padding: 7px 0 7px 0px;
+}
+.hlth-prfl .resp-arrow {
+  margin-top: 12px;
+}
+}
+
+@media (max-width: 484px) {
+  .bnr_content h1 {
+    font-size: 17.25px;
+    width: 261px;
+
+  }
+
+  .bnr-form .cmn_btn {
+    height: 36px;
+    padding: 8px 13px 12px;
+    right: -17px;
+  }
+
+  .bnr-form .form-cntct .form-control {
+    width: 200px;
+    height: 37px;
+  }
+
+  .clnt-sldr .swiper-wrapper {
+    justify-content: center;
+  }
+
+  .clnt-sldr {
+
+    top: 23%;
+  }
+
+  .clnt-pgntn {
+    top: 27%;
+  }
+
+  .cmnty-form .form-cntct .form-control {
+    width: 100%;
+  }
+
+  .cmnty-form .cmn_btn {
+    right: 0;
+    left: auto;
+    padding: 10px 20px;
+  }
+
+  .human-form .form-cntct .form-control {
+    width: auto;
+  }
+
+  .humn-prb {
+    overflow: hidden;
+  }
+
+  /* ----medical expert page----- */
+  .mdcl-exprt-bnr .bnr_content .cmn_hdr p {
+
+    width: 273px;
+  }
+
+  .mdcl-exprt-bnr .bnr-form .form-cntct .form-control {
+    width: 273px;
+  }
+
+  .mdcl-exprt-bnr .bnr-form .form-cntct {
+    width: 53%;
+  }
+
+  .mdcl-tstmnl-txt::after {
+    width: 51.75px;
+    height: 45.15px;
+  }
+
+  .hlth-advc .row:nth-child(2) .mdcl-team-img {
+    width: 248px;
+  }
+
+  .hlth-advc .human-img .dot-dtls3 {
+    top: 105px;
+  }
+
+  .hlth-advc .human-img .dot-dtls2 {
+    top: 82px;
+    left: 47%;
+  }
+
+  .hlth-advc .human-img .dot-dtls8 {
+
+    bottom: 38px;
+
+  }
+       /* ------shreyasi(8.7.22)-------------- */
+/* ---doc profile---- */
+.cmpr-rtng {
+  width: 100%;
+}
+.dc-prfl-acrdn-dtl {
+  padding-top: 20px;
+}
+.dc-prfl-acrdn:last-child {
+  padding-top: 20px;
+}
+.page-link {
+  padding: 13px;
+}
+/* ----payment page--- */
+.srch::after {
+  left: 34%;
+}
+.qstn-form.pymnt-form input[type="submit"] {
+  width: 40%;
+}
+  /* ---single question page------ */
+/* ----shreyasi(16.8.22)--------- */
+.dctr-pst::after {
+  width: 96px;
+}
+.dctr-pst {
+  width: 23%;
+}
+.caps-icn {
+  width: 100%;
+}
+.dctrs-detls:last-child {
+  margin-bottom: 0px;
+}
+.dctr-pst::after {
+  width: 99px;
+}
+.dctr-pst {
+  width: 28%;
+}
+.caps-icn {
+  display: block;
+}
+.mdvc-dcs .qst-otr .caps-icn .cmnty-btn {
+  margin: 30px 0;
+}
+/* ---dashboard--- */
+.dshbrd-dtl .qst-chck p{
+  margin-left: 13px;
+}
+.dshbrd-form{
+  display: block;
+}
+.dshbrd-nm{
+  margin: auto;
+ margin-bottom: 15px;
+}
+.dshbrd-dtl .dc-prfl-info-dtl:first-child {
+  padding-top: 0;
+  margin-top: 0;
+}
+.dshbrd-dtl .dc-prfl-info-dtl:nth-child(3) .qstn-img{
+  margin-right: 10px;
+}
+.dshbrd-dtl .qst-inr {
+  padding: 16px 0 20px;
+}
+.dshbrd-dtl .dc-prfl-info-dtl:first-child .qst-inr{
+  padding: 42px 0 20px;
+}
+}
+
+@media (max-width: 420px) {
+  .bnr_content {
+    position: sticky;
+    top: 0px;
+    transform: translateY(-0%);
+    background: #668994;
+    padding: 15px 0 25px;
+    z-index: 0;
+    height: 170px;
+    text-align: center;
+    margin: 0 -24px;
+  }
+
+  .bnr_content h1 {
+    width: 100%;
+  }
+
+  .bnr-form .form-cntct {
+    width: 100%;
+  }
+
+  .bnr-form .form-cntct .form-control {
+    width: auto;
+    margin: auto;
+  }
+
+  .bnr-form .cmn_btn {
+    right: 66px;
+  }
+
+  .ftr-img {
+    width: 60%;
+  }
+
+  .human-txt .cmn_hdr h2 {
+    padding-bottom: 0;
+  }
+
+  .dot-dtls3 {
+    right: 33%;
+  }
+
+  .dot-dtls5 {
+    left: 23%;
+  }
+
+  .dot-dtls6 {
+    right: 39%;
+  }
+
+  .dot-dtls7 {
+    right: 14%;
+  }
+
+  .dot-dtls8 {
+    left: 39%;
+  }
+
+  .get-txt {
+    padding: 23px 15px;
+  }
+
+  .get-img::after {
+    width: 299.25px;
+    height: 238.62px;
+    margin: auto;
+  }
+
+  .clnt-sldr {
+    top: 26%;
+  }
+
+  .clnt-sldr .swiper-slide {
+    width: 45px !important;
+  }
+
+  .clnt-sldr {
+
+    width: 52%;
+  }
+
+  .clnt-pgntn {
+    top: 32%;
+  }
+
+  .client::after {
+    width: 370.36px;
+    height: 377.25px;
+    top: 58%;
+  }
+
+  .cmnty-form .form-cntct .form-control {
+    height: 44px;
+  }
+
+  .cmnty-form .cmn_btn {
+    height: 44px;
+  }
+
+  /* ------medical expert page---- */
+  .mdcl-exprt-bnr.banner_sec .bnr_pic img {
+    height: auto;
+  }
+
+  .mdcl-exprt-bnr .bnr_content h2 {
+    width: auto;
+  }
+
+  .mdcl-exprt-bnr .bnr_content h2 br {
+    display: none;
+  }
+
+  .mdcl-exprt-bnr .bnr_content .cmn_hdr p {
+    width: auto;
+  }
+
+  .mdcl-exprt-bnr .bnr_content {
+    height: 197px;
+  }
+
+  .mdcl-exprt-bnr .bnr-form .form-cntct {
+    width: 100%;
+  }
+
+  .mdcl-exprt-bnr .bnr-form .cmn_btn {
+    right: 65px;
+  }
+
+  .mdvc-join-img {
+    width: 85%;
+  }
+
+  .mdcl-team-img {
+    width: 80%;
+
+  }
+
+  /* ------------how it works page------------- */
+  .how-wrk-bnr .bnr_content {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    height: auto;
+    background-color: #668994;
+    margin: 0;
+  }
+
+  .custom-file-label {
+    height: 44px;
+    padding: 11px 26px 0 12px;
+  }
+
+  .custom-file-input:lang(en)~.custom-file-label::after {
+    width: 42.13px;
+    height: 42.13px;
+  }
+
+  .hlth-advc .human-img .dot-dtls0 {
+    left: 47%;
+    top: -7px;
+  }
+
+  .hlth-advc .human-img .inr-box7 {
+    left: -117px;
+
+  }
+
+  /* sandip-12-07 */
+  .ppl-pic {
+    margin-top: 0px;
+  }
+
+  .col-md-6:first-child .ppl-inr {
+    margin-bottom: 45px;
+  }
+
+  .mt-ppl {
+    margin-top: 45px;
+  }
+
+  .ppl-inr {
+    padding: 25px;
+  }
+
+  .cmnty-part {
+    padding: 0px;
+  }
+/* ------shreyasi(8.7.22)-------------- */
+/* ---doc profile---- */
+.crtr-prfl {
+
+  min-width: auto;
+}
+.crtr-prfl-img{
+  width: 30px;
+  padding-right: 5px;
+}
+.crtr-prfl-anchr a:last-child {
+  padding-right: 26px;
+  margin-right: -26px;
+}
+.crtr-prfl-anchr a{
+  border-right: none;
+}
+.cmpr-prt {
+  width: 100%;
+  margin: auto;
+  margin-bottom: 15px;
+}
+.cmpr-rtng {
+  width: 60%;
+  margin: auto;
+}
+/* ---payment page---- */
+.pymnt-form {
+  padding-top: 4px;
+}
+.srch::after {
+  left: 32%;
+}
+/* ----creat-qstn---- */
+.crt-qstn .custom-file-input:lang(en) ~ .custom-file-label::after {
+  top: -50px;
+}
+.crt-qstn .custom-file-label {
+  height: 115px !important;
+}
+.crt-qstn .fullheight .form-control {
+  height: 95px !important;
+}
+.qstn-form.pymnt-form input[type="submit"] {
+  width: 47%;
+}
+}
+
+@media (max-width: 414px) {}
+
+@media (max-width: 384px) {
+  .bnr_content h1 {
+    font-size: 16.25px;
+
+  }
+
+  .bnr-form .cmn_btn {
+    right: 44px;
+  }
+
+  .count.cmn_pdding {
+    padding: 5px 0;
+  }
+
+  .cmn_pdding {
+    padding: 23.48px 0;
+  }
+
+  .post-txt {
+
+    bottom: -118px;
+  }
+
+  .post-pagination {
+    margin-top: 144px;
+  }
+
+  .inr-box5 {
+    right: -33px;
+  }
+
+  .dot-dtls5 {
+    left: 20%;
+  }
+
+  .inr-box3 {
+    left: -17px;
+  }
+
+  .dot-dtls3 {
+    right: 30%;
+  }
+
+  .inr-box7 {
+    left: -91px;
+
+  }
+
+  .dot-dtls7 {
+    right: 9%;
+  }
+
+  .dot-dtls8 {
+    left: 37%;
+  }
+
+  .dot-dtls6 {
+    right: 37%;
+  }
+
+  .get-img::after {
+    width: 258.25px;
+    height: 228.62px;
+
+  }
+
+  .get-img {
+    padding: 59px 0;
+  }
+
+  .clnt-sldr {
+    top: 29%;
+  }
+
+  .clnt-pgntn {
+    top: 35%;
+  }
+
+  .client::after {
+    right: 0;
+  }
+
+  .cmnty-info {
+    width: 78%;
+  }
+
+  .cmnty-form .form-cntct .form-control {
+    padding: 0 101px 0 25px;
+  }
+
+  .swiper-pagination-bullet-active {
+    width: 14px;
+    height: 14px;
+  }
+
+  .mdcl-exprt-bnr .bnr_content h2 {
+
+    padding: 0 20px 15px;
+  }
+
+  .mdcl-exprt-bnr .bnr-form .cmn_btn {
+    right: 60px;
+  }
+
+  .val-sec.cmn_pdding {
+    padding: 35px 0;
+  }
+  .srch::after {
+    left: 29%;
+  }
+  .qstn .qstn-clnt.cmn_hdr p {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 375px) {
+
+  .how-wrk-bnr .bnr_pic {
+    padding: 45px 0;
+  }
+
+  .hlth-advc .hlth-advc-form .form-cntct .form-control {
+    padding: 0 24px 0 25px;
+  }
+
+  .hlth-advc .row:nth-child(2) .mdcl-team-img {
+    width: 227px;
+  }
+
+  .hlth-advc .human-img .dot-dtls3 {
+    top: 97px;
+  }
+
+  
+  /* Ankur 05.08.22 */
+
+  .ttl_form_otr input {
+    margin-bottom: 20px;
+    width: 85%;
+    padding: 10px 0;
+    padding-left: 60px; 
+  }
+
+  .ttl_form_otr .email {
+    background-size: 20px 13px;
+}
+
+.ttl_form_otr .text {
+  background-size: 15px 17px;
+}
+
+.ttl_form_otr .passwrd {
+  background-size: 16px 16px;
+}
+
+.ttl_form_otr .re_pswrd {
+  background-size: 19px 12px;
+}
+/* ------shreyasi(8.7.22)-------------- */
+/* ---doc profile---- */
+.crtr-prfl-anchr a:last-child {
+
+  margin-right: -71px;
+}
+.optn-prt-dtl {
+  padding-right: 10px;
+}
+.dc_prfl_btn .cmn_btn {
+  width: 63%;
+  margin-bottom: 10px;
+}
+  /* ---single question page------ */
+/* ----shreyasi(16.8.22)--------- */
+.dctr-pst::after {
+  width: 86px;
+}
+.mdvc-dcs .qst-trt {
+  padding-top: 0px;
+}
+.mdvc-dcs .qstn-form.pymnt-form input[type="submit"] {
+  width: 57%;
+}
+.dshbrd-dtl .dc-prfl-info-dtl:first-child  .qst-inr {
+  padding: 57px 0 20px;
+}
+.dshbrd-dtl .dc-prfl-info-dtl:first-child {
+  padding-top: 0;
+  margin-top: 0;
+}
+.dshbrd-dtl .dc-prfl-info-dtl {
+  margin-top: 0;
+}
+}
+
+@media (max-width: 360px) {
+  .bnr_content h1 {
+    font-size: 15.25px;
+  }
+
+  .bnr-form .cmn_btn {
+    right: 35px;
+  }
+
+  .human-form .form-cntct .form-control {
+    padding: 0 18px 0 15px;
+  }
+
+  .clnt-sldr {
+    top: 30%;
+  }
+
+  .mdcl-exprt-bnr .bnr-form .cmn_btn {
+    right: 52px;
+  }
+
+  /* .hlth-advc .hlth-advc-form .form-cntct .form-control {
+    padding: 0 24px 0 25px;
+  } */
+
+
+
+ 
+}
+@media (max-width: 320px) {
+.srch::after {
+  left: 25%;
+}
+}
